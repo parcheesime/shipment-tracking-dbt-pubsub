@@ -1,0 +1,37 @@
+# Ignore virtual environments
+venv/
+.env/
+*.env
+
+# Ignore service account keys
+*.json
+pubsub_sim/keys/
+
+# Ignore DuckDB database file
+*.duckdb
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temp files
+logs/
+*.log
+
+# Ignore DBT build artifacts
+dbt_packages/
+target/
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore test artifacts or local scratch files
+*.ipynb_checkpoints
+*.tmp
+.DS_Store
+
+# DuckDB database files
+*.duckdb
+*.db

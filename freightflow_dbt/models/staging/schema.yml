@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: stg_freight_shipments
+    description: Cleaned freight shipment data from the raw CSV file
+    columns:
+      - name: shipment_id
+        description: Unique identifier for each shipment
+      - name: origin
+        description: City and state of shipment origin
+      - name: destination
+        description: City and state of shipment destination
+      - name: weight_kg
+        description: Weight of the shipment in kilograms
+      - name: cost_usd
+        description: Cost of the shipment in US dollars
+      - name: pickup_timestamp
+        description: Timestamp when the shipment was picked up
+      - name: status
+        description: Current shipment status (e.g., pending, in_transit, delivered)

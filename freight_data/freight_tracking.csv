@@ -1,0 +1,1255 @@
+shipment_id,last_known_location,last_update_time,status_update
+feb156c6-788a-4a95-9d2a-4dc986336775,"Oklahoma City, OK",2025-04-17T16:11:27.701402,delayed
+feb156c6-788a-4a95-9d2a-4dc986336775,"Denver, CO",2025-04-18T20:11:27.701402,arrived at hub
+1957bf41-b5e9-4a94-803d-a3960b329234,"El Paso, TX",2025-04-26T00:11:27.701555,out for delivery
+1957bf41-b5e9-4a94-803d-a3960b329234,"Phoenix, AZ",2025-04-25T17:11:27.701555,in transit
+9ce0e8d9-fee7-4ec4-a3a0-d67d55df7dc4,"El Paso, TX",2025-04-21T18:11:27.701634,delivered
+9ce0e8d9-fee7-4ec4-a3a0-d67d55df7dc4,"El Paso, TX",2025-04-20T16:11:27.701634,arrived at hub
+9c444940-87d5-476b-8a1c-094ef08acdab,"Tucson, AZ",2025-04-09T17:11:27.701754,delivered
+9c444940-87d5-476b-8a1c-094ef08acdab,"Salt Lake City, UT",2025-04-10T00:11:27.701754,in transit
+9c444940-87d5-476b-8a1c-094ef08acdab,"Oklahoma City, OK",2025-04-09T09:11:27.701754,out for delivery
+b637919c-9a17-49a9-ad55-7f312a872836,"Denver, CO",2025-04-08T00:11:27.701819,arrived at hub
+b637919c-9a17-49a9-ad55-7f312a872836,"Phoenix, AZ",2025-04-08T08:11:27.701819,in transit
+b637919c-9a17-49a9-ad55-7f312a872836,"Phoenix, AZ",2025-04-08T13:11:27.701819,delayed
+ba40ef33-8b56-4984-90e2-392618d99fbd,"Salt Lake City, UT",2025-04-29T22:11:27.701877,in transit
+ba40ef33-8b56-4984-90e2-392618d99fbd,"El Paso, TX",2025-04-30T23:11:27.701877,in transit
+ba40ef33-8b56-4984-90e2-392618d99fbd,"Phoenix, AZ",2025-04-30T13:11:27.701877,delivered
+7d947c08-836b-4a41-bf7d-41dc1122fd28,"El Paso, TX",2025-04-28T11:11:27.701935,arrived at hub
+7d947c08-836b-4a41-bf7d-41dc1122fd28,"Phoenix, AZ",2025-04-26T21:11:27.701935,arrived at hub
+7d947c08-836b-4a41-bf7d-41dc1122fd28,"Phoenix, AZ",2025-04-28T02:11:27.701935,arrived at hub
+d4dec943-e1fb-4089-913f-7becf7d2d4b8,"Las Vegas, NV",2025-04-11T13:11:27.701996,out for delivery
+d4dec943-e1fb-4089-913f-7becf7d2d4b8,"Denver, CO",2025-04-11T11:11:27.701996,delayed
+1bd44bf8-036f-4d9c-87fb-f975b096f652,"Oklahoma City, OK",2025-04-22T15:11:27.702073,delayed
+1bd44bf8-036f-4d9c-87fb-f975b096f652,"El Paso, TX",2025-04-21T22:11:27.702073,arrived at hub
+1bd44bf8-036f-4d9c-87fb-f975b096f652,"Oklahoma City, OK",2025-04-24T09:11:27.702073,arrived at hub
+ea352c47-c3ed-400a-807e-cc3e02e2cbfe,"Tucson, AZ",2025-05-01T00:11:27.702131,delayed
+ea352c47-c3ed-400a-807e-cc3e02e2cbfe,"Oklahoma City, OK",2025-04-29T17:11:27.702131,delayed
+b0994c7b-1cf5-4768-9f84-6d1ef6e57e95,"Salt Lake City, UT",2025-04-09T18:11:27.702192,in transit
+b0994c7b-1cf5-4768-9f84-6d1ef6e57e95,"Tucson, AZ",2025-04-10T05:11:27.702192,delayed
+b4571efc-3666-41ec-9691-45df60c543a4,"El Paso, TX",2025-04-24T16:11:27.702253,delayed
+b4571efc-3666-41ec-9691-45df60c543a4,"Oklahoma City, OK",2025-04-24T16:11:27.702253,out for delivery
+efe2f126-d711-4ccf-a33f-b3d900527282,"Denver, CO",2025-04-12T23:11:27.702324,delayed
+efe2f126-d711-4ccf-a33f-b3d900527282,"Denver, CO",2025-04-11T06:11:27.702324,delivered
+efe2f126-d711-4ccf-a33f-b3d900527282,"Las Vegas, NV",2025-04-13T09:11:27.702324,delivered
+bb74a9bb-3179-4810-b8b0-0bad38c9707e,"Las Vegas, NV",2025-04-16T16:11:27.702384,arrived at hub
+bb74a9bb-3179-4810-b8b0-0bad38c9707e,"El Paso, TX",2025-04-15T06:11:27.702384,out for delivery
+bb74a9bb-3179-4810-b8b0-0bad38c9707e,"Salt Lake City, UT",2025-04-15T00:11:27.702384,in transit
+91537e7d-70c9-45f3-8b20-1490e72a82ee,"Oklahoma City, OK",2025-04-28T08:11:27.702453,arrived at hub
+91537e7d-70c9-45f3-8b20-1490e72a82ee,"El Paso, TX",2025-04-29T19:11:27.702453,in transit
+bf635cc0-7348-41b1-b0a2-e6620fd1a3db,"El Paso, TX",2025-04-20T13:11:27.702521,out for delivery
+bf635cc0-7348-41b1-b0a2-e6620fd1a3db,"Las Vegas, NV",2025-04-21T08:11:27.702521,delivered
+bf635cc0-7348-41b1-b0a2-e6620fd1a3db,"Oklahoma City, OK",2025-04-18T14:11:27.702521,in transit
+c4c7deeb-2c7c-4844-ba11-145d1d511cb8,"Phoenix, AZ",2025-05-02T08:11:27.702644,delayed
+c4c7deeb-2c7c-4844-ba11-145d1d511cb8,"Denver, CO",2025-05-02T20:11:27.702644,out for delivery
+c4c7deeb-2c7c-4844-ba11-145d1d511cb8,"Oklahoma City, OK",2025-04-30T13:11:27.702644,delayed
+ca6d40da-8dfc-4274-a827-54bdd1a828ea,"Phoenix, AZ",2025-04-11T05:11:27.702724,delayed
+ca6d40da-8dfc-4274-a827-54bdd1a828ea,"El Paso, TX",2025-04-11T05:11:27.702724,arrived at hub
+2c04b967-557a-42c8-8fca-eb0d11c4c580,"Salt Lake City, UT",2025-04-20T12:11:27.702805,arrived at hub
+2c04b967-557a-42c8-8fca-eb0d11c4c580,"Phoenix, AZ",2025-04-21T08:11:27.702805,delivered
+7b58d4cb-a16c-49ca-a426-e791517285c1,"Phoenix, AZ",2025-04-27T03:11:27.702895,in transit
+7b58d4cb-a16c-49ca-a426-e791517285c1,"Salt Lake City, UT",2025-04-26T11:11:27.702895,delayed
+7b58d4cb-a16c-49ca-a426-e791517285c1,"Phoenix, AZ",2025-04-25T19:11:27.702895,arrived at hub
+b12ff191-3cba-47a1-b93b-780ca5d0db94,"Oklahoma City, OK",2025-04-11T23:11:27.702965,out for delivery
+b12ff191-3cba-47a1-b93b-780ca5d0db94,"Salt Lake City, UT",2025-04-11T21:11:27.702965,delivered
+16f19eda-1d34-4b55-8bcf-1c89719b067f,"Oklahoma City, OK",2025-04-11T05:11:27.703571,out for delivery
+16f19eda-1d34-4b55-8bcf-1c89719b067f,"Las Vegas, NV",2025-04-11T10:11:27.703571,delivered
+bf2f307d-30b6-4b5b-9681-e679f05413b8,"El Paso, TX",2025-04-17T16:11:27.703647,arrived at hub
+bf2f307d-30b6-4b5b-9681-e679f05413b8,"Tucson, AZ",2025-04-18T04:11:27.703647,delayed
+bf2f307d-30b6-4b5b-9681-e679f05413b8,"El Paso, TX",2025-04-18T21:11:27.703647,out for delivery
+e4ce89ce-3520-4162-967c-1c28ffa463e2,"Denver, CO",2025-04-11T20:11:27.703716,in transit
+e4ce89ce-3520-4162-967c-1c28ffa463e2,"Phoenix, AZ",2025-04-12T08:11:27.703716,delivered
+80aa4a5d-3f0f-4a0d-a6c2-3ed6268dcb14,"Phoenix, AZ",2025-05-05T17:11:27.703784,in transit
+80aa4a5d-3f0f-4a0d-a6c2-3ed6268dcb14,"Denver, CO",2025-05-04T20:11:27.703784,in transit
+a45a8366-0892-46a6-a041-dc7d83fd454e,"Phoenix, AZ",2025-05-04T07:11:27.703925,delivered
+a45a8366-0892-46a6-a041-dc7d83fd454e,"Las Vegas, NV",2025-05-03T19:11:27.703925,out for delivery
+5ad12cdc-115a-4ae2-b392-077413c804f6,"Oklahoma City, OK",2025-04-09T05:11:27.703999,delivered
+5ad12cdc-115a-4ae2-b392-077413c804f6,"Denver, CO",2025-04-11T01:11:27.703999,out for delivery
+1d4df145-88b3-4c02-81b2-a4c5ae2e17d7,"Phoenix, AZ",2025-04-15T13:11:27.704080,in transit
+1d4df145-88b3-4c02-81b2-a4c5ae2e17d7,"Las Vegas, NV",2025-04-16T20:11:27.704080,out for delivery
+1d4df145-88b3-4c02-81b2-a4c5ae2e17d7,"Tucson, AZ",2025-04-16T17:11:27.704080,in transit
+99e94764-6c17-4605-b024-a9596a5c38d8,"Tucson, AZ",2025-05-04T20:11:27.704159,delayed
+99e94764-6c17-4605-b024-a9596a5c38d8,"Denver, CO",2025-05-05T02:11:27.704159,arrived at hub
+f822c535-dd47-4c3d-97d1-d76065c8992e,"Tucson, AZ",2025-04-07T09:11:27.704219,arrived at hub
+f822c535-dd47-4c3d-97d1-d76065c8992e,"Denver, CO",2025-04-06T19:11:27.704219,delayed
+25ede98e-3d1b-4856-ad4d-3371846bfaf5,"Salt Lake City, UT",2025-04-24T20:11:27.704278,in transit
+25ede98e-3d1b-4856-ad4d-3371846bfaf5,"Salt Lake City, UT",2025-04-25T21:11:27.704278,delivered
+25ede98e-3d1b-4856-ad4d-3371846bfaf5,"Phoenix, AZ",2025-04-24T01:11:27.704278,delivered
+69c1cd79-c3af-46b5-b52b-6b3e6dff484c,"Salt Lake City, UT",2025-04-10T00:11:27.704347,arrived at hub
+69c1cd79-c3af-46b5-b52b-6b3e6dff484c,"Tucson, AZ",2025-04-10T10:11:27.704347,out for delivery
+3bdba21b-b873-4eb9-8256-52733dc612d8,"Salt Lake City, UT",2025-04-14T16:11:27.704409,out for delivery
+3bdba21b-b873-4eb9-8256-52733dc612d8,"Denver, CO",2025-04-13T20:11:27.704409,out for delivery
+3bdba21b-b873-4eb9-8256-52733dc612d8,"Tucson, AZ",2025-04-13T13:11:27.704409,delayed
+7b4e6fbc-1c88-4b35-a455-25e11a8be10f,"Tucson, AZ",2025-04-21T01:11:27.704467,delivered
+7b4e6fbc-1c88-4b35-a455-25e11a8be10f,"Denver, CO",2025-04-22T03:11:27.704467,arrived at hub
+7b4e6fbc-1c88-4b35-a455-25e11a8be10f,"Denver, CO",2025-04-21T02:11:27.704467,in transit
+3fa3b81d-2aa6-4b8a-9746-83c31a188f7a,"Phoenix, AZ",2025-04-29T05:11:27.704525,in transit
+3fa3b81d-2aa6-4b8a-9746-83c31a188f7a,"El Paso, TX",2025-04-30T02:11:27.704525,delivered
+5f334406-3cec-4cab-87ab-a506eb61d2d3,"El Paso, TX",2025-04-15T20:11:27.704583,in transit
+5f334406-3cec-4cab-87ab-a506eb61d2d3,"Phoenix, AZ",2025-04-16T12:11:27.704583,delivered
+66947eee-7306-442b-8594-cd7da8b55e39,"Tucson, AZ",2025-04-29T19:11:27.704699,in transit
+66947eee-7306-442b-8594-cd7da8b55e39,"El Paso, TX",2025-04-29T20:11:27.704699,delivered
+0a0b0504-6bf3-43e2-a8a9-021595a1b5e8,"Tucson, AZ",2025-04-05T23:11:27.704826,delivered
+0a0b0504-6bf3-43e2-a8a9-021595a1b5e8,"Las Vegas, NV",2025-04-08T07:11:27.704826,delayed
+ba1beec1-7d39-497a-b3d6-2a27cda85036,"Denver, CO",2025-04-07T05:11:27.704938,delayed
+ba1beec1-7d39-497a-b3d6-2a27cda85036,"Denver, CO",2025-04-07T15:11:27.704938,delayed
+200d1e7c-7d3a-4a0b-a31d-eff5ad6f2cc3,"Salt Lake City, UT",2025-04-28T05:11:27.705001,in transit
+200d1e7c-7d3a-4a0b-a31d-eff5ad6f2cc3,"Tucson, AZ",2025-04-26T14:11:27.705001,delivered
+200d1e7c-7d3a-4a0b-a31d-eff5ad6f2cc3,"Phoenix, AZ",2025-04-27T01:11:27.705001,delivered
+64425084-3cd2-4995-935e-1350eb695b5b,"Las Vegas, NV",2025-04-26T05:11:27.705070,arrived at hub
+64425084-3cd2-4995-935e-1350eb695b5b,"Phoenix, AZ",2025-04-25T09:11:27.705070,arrived at hub
+444811b7-1d2d-4abf-82d4-b817c1a4ae65,"Denver, CO",2025-04-13T01:11:27.705145,out for delivery
+444811b7-1d2d-4abf-82d4-b817c1a4ae65,"El Paso, TX",2025-04-13T03:11:27.705145,delivered
+444811b7-1d2d-4abf-82d4-b817c1a4ae65,"Oklahoma City, OK",2025-04-11T14:11:27.705145,delivered
+377fde5c-e5ca-4f7c-a9a7-20cffa824464,"Denver, CO",2025-04-20T02:11:27.705202,delayed
+377fde5c-e5ca-4f7c-a9a7-20cffa824464,"Phoenix, AZ",2025-04-20T03:11:27.705202,delivered
+377fde5c-e5ca-4f7c-a9a7-20cffa824464,"Las Vegas, NV",2025-04-20T08:11:27.705202,delayed
+260f0750-6823-48a5-b517-3b0d5e6592cf,"Denver, CO",2025-04-15T08:11:27.705277,delayed
+260f0750-6823-48a5-b517-3b0d5e6592cf,"Tucson, AZ",2025-04-16T05:11:27.705277,delayed
+9013e453-738b-42ba-8d46-5e543feb872b,"Oklahoma City, OK",2025-04-14T00:11:27.705337,out for delivery
+9013e453-738b-42ba-8d46-5e543feb872b,"Phoenix, AZ",2025-04-15T00:11:27.705337,in transit
+f6dd7b64-ac52-4e24-acc2-3fa86bcc3978,"Oklahoma City, OK",2025-05-04T05:11:27.705411,delayed
+f6dd7b64-ac52-4e24-acc2-3fa86bcc3978,"Oklahoma City, OK",2025-05-04T09:11:27.705411,out for delivery
+f6dd7b64-ac52-4e24-acc2-3fa86bcc3978,"El Paso, TX",2025-05-05T19:11:27.705411,in transit
+ab97909b-ad43-4fc2-8a04-885b631a9f86,"Oklahoma City, OK",2025-04-27T22:11:27.705478,arrived at hub
+ab97909b-ad43-4fc2-8a04-885b631a9f86,"Salt Lake City, UT",2025-04-27T17:11:27.705478,delayed
+32a03a3d-8b10-4c89-921f-9b4e9bb03881,"Denver, CO",2025-04-07T20:11:27.705547,in transit
+32a03a3d-8b10-4c89-921f-9b4e9bb03881,"Las Vegas, NV",2025-04-07T04:11:27.705547,in transit
+b3028b70-56b9-402b-846d-eed94fc03fa6,"Oklahoma City, OK",2025-04-25T15:11:27.705603,arrived at hub
+b3028b70-56b9-402b-846d-eed94fc03fa6,"Las Vegas, NV",2025-04-25T02:11:27.705603,delivered
+b3028b70-56b9-402b-846d-eed94fc03fa6,"El Paso, TX",2025-04-26T17:11:27.705603,arrived at hub
+becce702-f786-4893-80c2-10d7a0f3a671,"Salt Lake City, UT",2025-04-26T09:11:27.705669,arrived at hub
+becce702-f786-4893-80c2-10d7a0f3a671,"Phoenix, AZ",2025-04-27T17:11:27.705669,arrived at hub
+ce240b4b-49f1-4a4f-8295-aeb960438bbc,"Salt Lake City, UT",2025-04-09T17:11:27.705725,arrived at hub
+ce240b4b-49f1-4a4f-8295-aeb960438bbc,"Denver, CO",2025-04-08T23:11:27.705725,in transit
+ce240b4b-49f1-4a4f-8295-aeb960438bbc,"Salt Lake City, UT",2025-04-09T13:11:27.705725,in transit
+3bc2648e-9981-46d1-abdc-fa0aaea705a0,"Denver, CO",2025-05-05T17:11:27.705792,out for delivery
+3bc2648e-9981-46d1-abdc-fa0aaea705a0,"Las Vegas, NV",2025-05-06T09:11:27.705792,arrived at hub
+3bc2648e-9981-46d1-abdc-fa0aaea705a0,"Phoenix, AZ",2025-05-05T17:11:27.705792,arrived at hub
+d2ebfbeb-7325-446d-bde8-5c57cabb8b5a,"Las Vegas, NV",2025-04-29T07:11:27.705860,in transit
+d2ebfbeb-7325-446d-bde8-5c57cabb8b5a,"Las Vegas, NV",2025-04-29T00:11:27.705860,delivered
+d2ebfbeb-7325-446d-bde8-5c57cabb8b5a,"Oklahoma City, OK",2025-04-29T16:11:27.705860,delivered
+c3995ddf-bf12-4f7c-be30-96034f654987,"Phoenix, AZ",2025-04-30T16:11:27.705927,delayed
+c3995ddf-bf12-4f7c-be30-96034f654987,"El Paso, TX",2025-05-01T11:11:27.705927,delayed
+c3995ddf-bf12-4f7c-be30-96034f654987,"Phoenix, AZ",2025-04-30T17:11:27.705927,delivered
+a54f09f6-b50f-46a7-b5b8-28543fae26b6,"Oklahoma City, OK",2025-04-16T09:11:27.705995,delayed
+a54f09f6-b50f-46a7-b5b8-28543fae26b6,"El Paso, TX",2025-04-16T20:11:27.705995,delivered
+a54f09f6-b50f-46a7-b5b8-28543fae26b6,"Tucson, AZ",2025-04-15T03:11:27.705995,delivered
+aa7bd1cd-b551-4777-86d5-818e6f82e148,"Phoenix, AZ",2025-04-08T21:11:27.706057,out for delivery
+aa7bd1cd-b551-4777-86d5-818e6f82e148,"El Paso, TX",2025-04-07T13:11:27.706057,delivered
+487762ed-06a7-4e66-aac6-82ef4762511b,"Tucson, AZ",2025-04-07T11:11:27.706118,in transit
+487762ed-06a7-4e66-aac6-82ef4762511b,"El Paso, TX",2025-04-07T07:11:27.706118,delayed
+9d50ecfc-15c8-4697-8580-47af8950e017,"El Paso, TX",2025-04-20T03:11:27.706176,delayed
+9d50ecfc-15c8-4697-8580-47af8950e017,"Las Vegas, NV",2025-04-20T17:11:27.706176,out for delivery
+6da56403-693e-4f85-8017-b36c2663c5d3,"Denver, CO",2025-05-01T05:11:27.706234,out for delivery
+6da56403-693e-4f85-8017-b36c2663c5d3,"Oklahoma City, OK",2025-05-02T13:11:27.706234,arrived at hub
+6da56403-693e-4f85-8017-b36c2663c5d3,"Tucson, AZ",2025-05-02T03:11:27.706234,delivered
+c1e72e9e-582f-4e78-89f6-27e111fc9dd6,"Las Vegas, NV",2025-04-30T03:11:27.706300,arrived at hub
+c1e72e9e-582f-4e78-89f6-27e111fc9dd6,"Salt Lake City, UT",2025-04-30T20:11:27.706300,delivered
+e75ba900-3cba-4bbe-8a3d-0892a48f69ce,"Tucson, AZ",2025-05-04T00:11:27.706366,out for delivery
+e75ba900-3cba-4bbe-8a3d-0892a48f69ce,"El Paso, TX",2025-05-02T16:11:27.706366,out for delivery
+e75ba900-3cba-4bbe-8a3d-0892a48f69ce,"Oklahoma City, OK",2025-05-02T10:11:27.706366,in transit
+7a89d59c-e1bf-4ab0-9ef7-467f3c028f7d,"Oklahoma City, OK",2025-05-05T06:11:27.706432,delivered
+7a89d59c-e1bf-4ab0-9ef7-467f3c028f7d,"Phoenix, AZ",2025-05-04T07:11:27.706432,arrived at hub
+7a89d59c-e1bf-4ab0-9ef7-467f3c028f7d,"Denver, CO",2025-05-04T04:11:27.706432,arrived at hub
+64c641ee-01d5-49ed-9fd2-0990ce32cbc1,"Phoenix, AZ",2025-04-30T16:11:27.706500,arrived at hub
+64c641ee-01d5-49ed-9fd2-0990ce32cbc1,"El Paso, TX",2025-05-03T01:11:27.706500,in transit
+9c2c7702-1b64-43ef-806d-2fee254ca490,"Oklahoma City, OK",2025-05-06T18:11:27.706570,delivered
+9c2c7702-1b64-43ef-806d-2fee254ca490,"Oklahoma City, OK",2025-05-05T13:11:27.706570,out for delivery
+9c2c7702-1b64-43ef-806d-2fee254ca490,"Tucson, AZ",2025-05-07T04:11:27.706570,arrived at hub
+62d85f6a-1e3c-4483-8822-88f02ec6d2d7,"Salt Lake City, UT",2025-05-04T13:11:27.706643,in transit
+62d85f6a-1e3c-4483-8822-88f02ec6d2d7,"Denver, CO",2025-05-06T19:11:27.706643,arrived at hub
+689865db-5fed-4765-bced-6a71cb132df4,"El Paso, TX",2025-04-16T19:11:27.706782,arrived at hub
+689865db-5fed-4765-bced-6a71cb132df4,"Tucson, AZ",2025-04-17T04:11:27.706782,arrived at hub
+689865db-5fed-4765-bced-6a71cb132df4,"Oklahoma City, OK",2025-04-19T00:11:27.706782,delivered
+0a5a607e-7ae9-4adc-834f-e8887687b6c0,"El Paso, TX",2025-04-14T21:11:27.706863,delivered
+0a5a607e-7ae9-4adc-834f-e8887687b6c0,"Salt Lake City, UT",2025-04-14T19:11:27.706863,delivered
+0a5a607e-7ae9-4adc-834f-e8887687b6c0,"Denver, CO",2025-04-14T22:11:27.706863,out for delivery
+abde16d6-e681-46c8-96bf-183044f25970,"Salt Lake City, UT",2025-04-08T22:11:27.706958,arrived at hub
+abde16d6-e681-46c8-96bf-183044f25970,"Salt Lake City, UT",2025-04-09T00:11:27.706958,delivered
+abde16d6-e681-46c8-96bf-183044f25970,"Oklahoma City, OK",2025-04-10T03:11:27.706958,arrived at hub
+e4353c6b-e5d4-4ea4-be83-bff48fcefe57,"Phoenix, AZ",2025-04-08T21:11:27.707036,delayed
+e4353c6b-e5d4-4ea4-be83-bff48fcefe57,"Las Vegas, NV",2025-04-07T19:11:27.707036,delayed
+e4353c6b-e5d4-4ea4-be83-bff48fcefe57,"El Paso, TX",2025-04-08T05:11:27.707036,in transit
+9a63a8e6-f318-450b-9093-248dfb8c3404,"Denver, CO",2025-04-11T08:11:27.707108,out for delivery
+9a63a8e6-f318-450b-9093-248dfb8c3404,"Oklahoma City, OK",2025-04-11T08:11:27.707108,arrived at hub
+1735319f-de65-41e8-8986-69e3732e634b,"Tucson, AZ",2025-04-26T18:11:27.707172,delayed
+1735319f-de65-41e8-8986-69e3732e634b,"Tucson, AZ",2025-04-27T00:11:27.707172,in transit
+f64dd416-7459-45aa-b659-836e1c07e2f7,"Tucson, AZ",2025-04-20T18:11:27.707232,delivered
+f64dd416-7459-45aa-b659-836e1c07e2f7,"Salt Lake City, UT",2025-04-18T15:11:27.707232,delivered
+f91d8242-42ab-43d0-b37b-22a1643215df,"Phoenix, AZ",2025-04-26T02:11:27.707292,delayed
+f91d8242-42ab-43d0-b37b-22a1643215df,"Salt Lake City, UT",2025-04-25T03:11:27.707292,out for delivery
+f91d8242-42ab-43d0-b37b-22a1643215df,"El Paso, TX",2025-04-25T18:11:27.707292,delivered
+a8a630e2-9404-4189-b7d1-8ca1be5330b9,"Denver, CO",2025-05-07T03:11:27.707354,delayed
+a8a630e2-9404-4189-b7d1-8ca1be5330b9,"Tucson, AZ",2025-05-06T20:11:27.707354,in transit
+b6c42b54-4c52-406b-8ccb-16bf1d51d511,"Oklahoma City, OK",2025-05-04T08:11:27.707462,out for delivery
+b6c42b54-4c52-406b-8ccb-16bf1d51d511,"Salt Lake City, UT",2025-05-03T10:11:27.707462,out for delivery
+b6c42b54-4c52-406b-8ccb-16bf1d51d511,"El Paso, TX",2025-05-03T05:11:27.707462,delivered
+96b3ad17-b3a4-4e4e-9f92-4d206204974a,"El Paso, TX",2025-04-09T15:11:27.707549,delivered
+96b3ad17-b3a4-4e4e-9f92-4d206204974a,"Phoenix, AZ",2025-04-07T16:11:27.707549,out for delivery
+a68afdf0-ed09-448e-8e70-5863c06b2321,"Denver, CO",2025-05-05T00:11:27.707632,in transit
+a68afdf0-ed09-448e-8e70-5863c06b2321,"Tucson, AZ",2025-05-03T22:11:27.707632,delayed
+57a38882-dafe-40d4-b389-99997431c7c8,"Las Vegas, NV",2025-04-12T23:11:27.707717,delayed
+57a38882-dafe-40d4-b389-99997431c7c8,"Las Vegas, NV",2025-04-12T13:11:27.707717,out for delivery
+069d5962-b7a1-4afa-8fe8-f50732a3a1a0,"Tucson, AZ",2025-04-06T23:11:27.707797,in transit
+069d5962-b7a1-4afa-8fe8-f50732a3a1a0,"Las Vegas, NV",2025-04-06T19:11:27.707797,arrived at hub
+069d5962-b7a1-4afa-8fe8-f50732a3a1a0,"Salt Lake City, UT",2025-04-06T21:11:27.707797,in transit
+20bcc605-1f10-432b-b01c-7b7fa492ebc8,"Denver, CO",2025-04-21T20:11:27.707917,in transit
+20bcc605-1f10-432b-b01c-7b7fa492ebc8,"Denver, CO",2025-04-21T08:11:27.707917,arrived at hub
+ea084ab1-fcce-4f42-8436-b7f03a12e82b,"El Paso, TX",2025-04-20T03:11:27.708012,arrived at hub
+ea084ab1-fcce-4f42-8436-b7f03a12e82b,"Oklahoma City, OK",2025-04-22T00:11:27.708012,delayed
+ea084ab1-fcce-4f42-8436-b7f03a12e82b,"Denver, CO",2025-04-21T12:11:27.708012,delivered
+6c5a469b-6d1f-4554-ad2e-dec9a8174914,"Las Vegas, NV",2025-04-23T09:11:27.708089,in transit
+6c5a469b-6d1f-4554-ad2e-dec9a8174914,"Las Vegas, NV",2025-04-22T16:11:27.708089,delivered
+f75b9889-1aef-4179-afd0-8837a006c877,"Oklahoma City, OK",2025-04-26T15:11:27.708191,arrived at hub
+f75b9889-1aef-4179-afd0-8837a006c877,"El Paso, TX",2025-04-24T22:11:27.708191,arrived at hub
+f75b9889-1aef-4179-afd0-8837a006c877,"Oklahoma City, OK",2025-04-25T02:11:27.708191,delayed
+d7bb9bfb-1932-4b87-856b-81f51f412cb8,"Las Vegas, NV",2025-04-15T18:11:27.708281,delivered
+d7bb9bfb-1932-4b87-856b-81f51f412cb8,"Oklahoma City, OK",2025-04-17T19:11:27.708281,delayed
+fba40d17-9148-4c6b-b64f-6325cf129277,"Oklahoma City, OK",2025-04-26T05:11:27.708380,delayed
+fba40d17-9148-4c6b-b64f-6325cf129277,"Salt Lake City, UT",2025-04-23T14:11:27.708380,out for delivery
+2dee9bfd-5a2a-4aa2-8a81-ed7354bb771e,"Tucson, AZ",2025-04-07T02:11:27.708474,delayed
+2dee9bfd-5a2a-4aa2-8a81-ed7354bb771e,"Oklahoma City, OK",2025-04-08T23:11:27.708474,arrived at hub
+2dee9bfd-5a2a-4aa2-8a81-ed7354bb771e,"Denver, CO",2025-04-08T20:11:27.708474,delivered
+4f180df3-8291-4cba-b942-8ca2cc0d26f8,"Salt Lake City, UT",2025-04-13T09:11:27.708557,out for delivery
+4f180df3-8291-4cba-b942-8ca2cc0d26f8,"Tucson, AZ",2025-04-13T00:11:27.708557,delivered
+4f180df3-8291-4cba-b942-8ca2cc0d26f8,"Las Vegas, NV",2025-04-11T23:11:27.708557,arrived at hub
+043014ba-2c53-4b5d-ad00-d5eb66bf527f,"Tucson, AZ",2025-04-15T00:11:27.708653,arrived at hub
+043014ba-2c53-4b5d-ad00-d5eb66bf527f,"El Paso, TX",2025-04-16T00:11:27.708653,delivered
+53bcafc6-0fe4-4c57-afd0-d646754616db,"Phoenix, AZ",2025-04-29T08:11:27.708763,out for delivery
+53bcafc6-0fe4-4c57-afd0-d646754616db,"Denver, CO",2025-04-29T06:11:27.708763,out for delivery
+53bcafc6-0fe4-4c57-afd0-d646754616db,"Las Vegas, NV",2025-04-28T16:11:27.708763,delayed
+ce5bbd42-3b8d-4f4f-a378-3a3b88406e5a,"El Paso, TX",2025-04-09T00:11:27.708862,delayed
+ce5bbd42-3b8d-4f4f-a378-3a3b88406e5a,"El Paso, TX",2025-04-07T14:11:27.708862,arrived at hub
+ce5bbd42-3b8d-4f4f-a378-3a3b88406e5a,"Denver, CO",2025-04-07T23:11:27.708862,out for delivery
+a434301f-1ad1-43b1-930d-f817b1e71355,"Oklahoma City, OK",2025-04-05T19:11:27.708953,out for delivery
+a434301f-1ad1-43b1-930d-f817b1e71355,"Tucson, AZ",2025-04-07T03:11:27.708953,in transit
+a434301f-1ad1-43b1-930d-f817b1e71355,"Las Vegas, NV",2025-04-05T00:11:27.708953,arrived at hub
+adbeb6cd-0e5d-4ab3-bf0d-a69358de9ea7,"Las Vegas, NV",2025-04-11T20:11:27.709042,delivered
+adbeb6cd-0e5d-4ab3-bf0d-a69358de9ea7,"Tucson, AZ",2025-04-12T12:11:27.709042,delivered
+adbeb6cd-0e5d-4ab3-bf0d-a69358de9ea7,"Las Vegas, NV",2025-04-13T08:11:27.709042,out for delivery
+7aef7e43-ffdb-404b-83e6-283d8764b6f4,"Oklahoma City, OK",2025-04-30T10:11:27.709118,out for delivery
+7aef7e43-ffdb-404b-83e6-283d8764b6f4,"Las Vegas, NV",2025-04-29T23:11:27.709118,delayed
+7aef7e43-ffdb-404b-83e6-283d8764b6f4,"Phoenix, AZ",2025-04-29T18:11:27.709118,arrived at hub
+3e547cb2-8f37-4bed-858c-35c6a3c2bf6f,"Oklahoma City, OK",2025-04-28T04:11:27.709188,delivered
+3e547cb2-8f37-4bed-858c-35c6a3c2bf6f,"Denver, CO",2025-04-28T12:11:27.709188,arrived at hub
+3e547cb2-8f37-4bed-858c-35c6a3c2bf6f,"Las Vegas, NV",2025-04-30T02:11:27.709188,delivered
+19d50990-f3af-4308-931c-633967865541,"Salt Lake City, UT",2025-04-13T01:11:27.709269,arrived at hub
+19d50990-f3af-4308-931c-633967865541,"Denver, CO",2025-04-14T02:11:27.709269,delayed
+19d50990-f3af-4308-931c-633967865541,"Las Vegas, NV",2025-04-13T11:11:27.709269,in transit
+296577bd-f671-463a-80b0-cd1332e523af,"Phoenix, AZ",2025-04-12T00:11:27.709342,in transit
+296577bd-f671-463a-80b0-cd1332e523af,"Oklahoma City, OK",2025-04-12T02:11:27.709342,arrived at hub
+dee57d6d-1a46-4429-b2b7-0c8d936652b7,"Salt Lake City, UT",2025-04-18T02:11:27.709416,in transit
+dee57d6d-1a46-4429-b2b7-0c8d936652b7,"Tucson, AZ",2025-04-19T01:11:27.709416,out for delivery
+dee57d6d-1a46-4429-b2b7-0c8d936652b7,"Las Vegas, NV",2025-04-19T21:11:27.709416,arrived at hub
+6ef34b95-a006-40f7-be38-a86a2bc514a5,"Salt Lake City, UT",2025-04-21T21:11:27.709488,out for delivery
+6ef34b95-a006-40f7-be38-a86a2bc514a5,"Salt Lake City, UT",2025-04-21T03:11:27.709488,in transit
+3901576d-62c1-4411-9de4-a720b288768f,"Phoenix, AZ",2025-05-04T03:11:27.709560,delivered
+3901576d-62c1-4411-9de4-a720b288768f,"Denver, CO",2025-05-01T19:11:27.709560,arrived at hub
+3901576d-62c1-4411-9de4-a720b288768f,"Phoenix, AZ",2025-05-03T03:11:27.709560,arrived at hub
+cf25ae6d-edd8-4fd2-ad0f-07724234094c,"El Paso, TX",2025-04-15T18:11:27.709640,delivered
+cf25ae6d-edd8-4fd2-ad0f-07724234094c,"Salt Lake City, UT",2025-04-14T17:11:27.709640,delivered
+08a2ce46-7a66-46e1-999b-61ed53b5963d,"Tucson, AZ",2025-04-24T22:11:27.709716,delayed
+08a2ce46-7a66-46e1-999b-61ed53b5963d,"Las Vegas, NV",2025-04-24T19:11:27.709716,delivered
+08a2ce46-7a66-46e1-999b-61ed53b5963d,"El Paso, TX",2025-04-22T20:11:27.709716,in transit
+5c1ad108-440b-4515-832f-ea128d007c1f,"Las Vegas, NV",2025-04-15T16:11:27.709801,in transit
+5c1ad108-440b-4515-832f-ea128d007c1f,"Denver, CO",2025-04-15T09:11:27.709801,arrived at hub
+6a7c9f79-3cc7-441a-b455-7073312d0d4d,"Phoenix, AZ",2025-05-05T09:11:27.709885,out for delivery
+6a7c9f79-3cc7-441a-b455-7073312d0d4d,"Oklahoma City, OK",2025-05-06T22:11:27.709885,delivered
+e471336a-9feb-411d-9d44-9965b5dd6337,"Phoenix, AZ",2025-04-09T02:11:27.709969,arrived at hub
+e471336a-9feb-411d-9d44-9965b5dd6337,"Oklahoma City, OK",2025-04-09T01:11:27.709969,delayed
+e471336a-9feb-411d-9d44-9965b5dd6337,"Phoenix, AZ",2025-04-09T23:11:27.709969,arrived at hub
+eb916f01-cd09-4b18-ae37-0d4357bb8b1f,"Tucson, AZ",2025-04-08T14:11:27.710046,in transit
+eb916f01-cd09-4b18-ae37-0d4357bb8b1f,"Oklahoma City, OK",2025-04-08T17:11:27.710046,arrived at hub
+eb916f01-cd09-4b18-ae37-0d4357bb8b1f,"Salt Lake City, UT",2025-04-08T23:11:27.710046,arrived at hub
+f572aaf9-6b9c-49aa-8ce0-ba2143cadeeb,"Denver, CO",2025-04-25T20:11:27.710142,delayed
+f572aaf9-6b9c-49aa-8ce0-ba2143cadeeb,"Tucson, AZ",2025-04-27T01:11:27.710142,in transit
+77dd3487-1258-4f39-ba37-f79ffccd9603,"Oklahoma City, OK",2025-04-12T03:11:27.710239,out for delivery
+77dd3487-1258-4f39-ba37-f79ffccd9603,"El Paso, TX",2025-04-11T23:11:27.710239,delivered
+77dd3487-1258-4f39-ba37-f79ffccd9603,"Tucson, AZ",2025-04-13T04:11:27.710239,in transit
+e5269b97-e2e9-40f2-b0ee-b77b019a3f6c,"Oklahoma City, OK",2025-04-26T20:11:27.710990,delayed
+e5269b97-e2e9-40f2-b0ee-b77b019a3f6c,"Phoenix, AZ",2025-04-25T21:11:27.710990,in transit
+03c3e70a-e372-4b87-84da-cd210923383d,"Salt Lake City, UT",2025-04-22T15:11:27.711100,delayed
+03c3e70a-e372-4b87-84da-cd210923383d,"Salt Lake City, UT",2025-04-22T18:11:27.711100,arrived at hub
+b467bc9a-706d-4540-9b8c-d818cc2b0e10,"Oklahoma City, OK",2025-04-24T07:11:27.711191,out for delivery
+b467bc9a-706d-4540-9b8c-d818cc2b0e10,"Denver, CO",2025-04-23T00:11:27.711191,delivered
+b467bc9a-706d-4540-9b8c-d818cc2b0e10,"Oklahoma City, OK",2025-04-23T20:11:27.711191,out for delivery
+8ae8033d-2eb0-4aa8-b81d-682422bcf954,"Las Vegas, NV",2025-05-01T01:11:27.711281,out for delivery
+8ae8033d-2eb0-4aa8-b81d-682422bcf954,"Las Vegas, NV",2025-04-30T07:11:27.711281,in transit
+79f3bcf1-2209-43f6-9c34-762538dd6802,"Tucson, AZ",2025-04-07T07:11:27.711369,out for delivery
+79f3bcf1-2209-43f6-9c34-762538dd6802,"Oklahoma City, OK",2025-04-07T01:11:27.711369,out for delivery
+5049deec-ba07-4d99-adda-60994960f894,"Phoenix, AZ",2025-04-17T23:11:27.711450,delayed
+5049deec-ba07-4d99-adda-60994960f894,"Las Vegas, NV",2025-04-16T21:11:27.711450,in transit
+5ce6abfc-0f31-463a-aee9-00603c5886d4,"Salt Lake City, UT",2025-04-09T06:11:27.711623,in transit
+5ce6abfc-0f31-463a-aee9-00603c5886d4,"Tucson, AZ",2025-04-09T00:11:27.711623,in transit
+5ce6abfc-0f31-463a-aee9-00603c5886d4,"El Paso, TX",2025-04-07T13:11:27.711623,delayed
+daffe172-e53c-4326-87c8-4f6343e92933,"Salt Lake City, UT",2025-04-10T21:11:27.711713,in transit
+daffe172-e53c-4326-87c8-4f6343e92933,"Las Vegas, NV",2025-04-09T15:11:27.711713,delivered
+daffe172-e53c-4326-87c8-4f6343e92933,"Las Vegas, NV",2025-04-09T05:11:27.711713,out for delivery
+2bab5fcc-7a0b-41a6-9d93-152dddc88695,"Phoenix, AZ",2025-04-07T04:11:27.711808,delivered
+2bab5fcc-7a0b-41a6-9d93-152dddc88695,"Oklahoma City, OK",2025-04-07T19:11:27.711808,arrived at hub
+2bab5fcc-7a0b-41a6-9d93-152dddc88695,"El Paso, TX",2025-04-08T04:11:27.711808,in transit
+8ae25ae1-d623-46c9-9b8e-ee389eb00888,"Denver, CO",2025-04-20T00:11:27.711898,in transit
+8ae25ae1-d623-46c9-9b8e-ee389eb00888,"Phoenix, AZ",2025-04-22T00:11:27.711898,arrived at hub
+8ae25ae1-d623-46c9-9b8e-ee389eb00888,"Oklahoma City, OK",2025-04-22T04:11:27.711898,delayed
+27a8d573-a275-4fb5-90ed-930707015577,"Salt Lake City, UT",2025-05-01T18:11:27.711977,out for delivery
+27a8d573-a275-4fb5-90ed-930707015577,"Denver, CO",2025-05-02T01:11:27.711977,out for delivery
+27a8d573-a275-4fb5-90ed-930707015577,"Tucson, AZ",2025-04-30T07:11:27.711977,arrived at hub
+2e8250f3-c506-4c34-9b8e-7e5530fae695,"Las Vegas, NV",2025-04-28T21:11:27.712053,out for delivery
+2e8250f3-c506-4c34-9b8e-7e5530fae695,"Salt Lake City, UT",2025-04-30T08:11:27.712053,delivered
+004d1e8c-8509-4afb-a558-96d356ed980d,"Las Vegas, NV",2025-04-14T13:11:27.712129,delayed
+004d1e8c-8509-4afb-a558-96d356ed980d,"Salt Lake City, UT",2025-04-17T03:11:27.712129,arrived at hub
+004d1e8c-8509-4afb-a558-96d356ed980d,"El Paso, TX",2025-04-16T22:11:27.712129,out for delivery
+39a7dad7-1220-41d8-9355-c61cb6102825,"El Paso, TX",2025-04-15T07:11:27.712221,delivered
+39a7dad7-1220-41d8-9355-c61cb6102825,"Tucson, AZ",2025-04-15T13:11:27.712221,delayed
+39a7dad7-1220-41d8-9355-c61cb6102825,"Oklahoma City, OK",2025-04-14T13:11:27.712221,arrived at hub
+d9a107af-6b6c-41aa-b01d-908416a8f77c,"Salt Lake City, UT",2025-04-07T18:11:27.712312,out for delivery
+d9a107af-6b6c-41aa-b01d-908416a8f77c,"Las Vegas, NV",2025-04-06T18:11:27.712312,out for delivery
+d9a107af-6b6c-41aa-b01d-908416a8f77c,"Tucson, AZ",2025-04-08T13:11:27.712312,arrived at hub
+e291fde2-be9f-44ee-9635-5312c666b65f,"Denver, CO",2025-04-21T17:11:27.712386,delivered
+e291fde2-be9f-44ee-9635-5312c666b65f,"Salt Lake City, UT",2025-04-23T07:11:27.712386,in transit
+e291fde2-be9f-44ee-9635-5312c666b65f,"Phoenix, AZ",2025-04-23T21:11:27.712386,delivered
+a8d3beb1-04d0-47d6-b22e-46947e8e60d9,"Oklahoma City, OK",2025-04-27T14:11:27.712465,arrived at hub
+a8d3beb1-04d0-47d6-b22e-46947e8e60d9,"Salt Lake City, UT",2025-04-29T17:11:27.712465,arrived at hub
+a8d3beb1-04d0-47d6-b22e-46947e8e60d9,"Tucson, AZ",2025-04-27T22:11:27.712465,delayed
+aba0bad5-b1f1-4952-8e74-24bfc51fd916,"Oklahoma City, OK",2025-04-25T15:11:27.712539,in transit
+aba0bad5-b1f1-4952-8e74-24bfc51fd916,"Salt Lake City, UT",2025-04-25T07:11:27.712539,delivered
+aba0bad5-b1f1-4952-8e74-24bfc51fd916,"Las Vegas, NV",2025-04-25T13:11:27.712539,out for delivery
+b1dad7a7-6646-4a66-9a7c-8f48a10ef241,"Denver, CO",2025-04-14T21:11:27.712720,delayed
+b1dad7a7-6646-4a66-9a7c-8f48a10ef241,"Oklahoma City, OK",2025-04-15T18:11:27.712720,in transit
+b1fc0862-8883-4702-980b-d0bb1bbc93e8,"Salt Lake City, UT",2025-04-28T01:11:27.712805,in transit
+b1fc0862-8883-4702-980b-d0bb1bbc93e8,"Denver, CO",2025-04-29T21:11:27.712805,delayed
+b1fc0862-8883-4702-980b-d0bb1bbc93e8,"Phoenix, AZ",2025-04-27T16:11:27.712805,delayed
+613afc9f-1f3a-4d56-986b-202540cd0d80,"Las Vegas, NV",2025-04-23T02:11:27.712921,delayed
+613afc9f-1f3a-4d56-986b-202540cd0d80,"Denver, CO",2025-04-23T20:11:27.712921,arrived at hub
+fb259db7-1326-4e00-ace5-aedc08a47eee,"Denver, CO",2025-04-29T12:11:27.713001,arrived at hub
+fb259db7-1326-4e00-ace5-aedc08a47eee,"El Paso, TX",2025-04-28T23:11:27.713001,out for delivery
+fb259db7-1326-4e00-ace5-aedc08a47eee,"Tucson, AZ",2025-04-29T19:11:27.713001,delivered
+3d08f6ef-1c22-483d-9cf4-e418ce29ebd4,"Tucson, AZ",2025-04-27T18:11:27.713076,delayed
+3d08f6ef-1c22-483d-9cf4-e418ce29ebd4,"Las Vegas, NV",2025-04-28T23:11:27.713076,in transit
+ee970dc4-beb9-4ced-9f3e-a250d713551a,"Oklahoma City, OK",2025-04-13T01:11:27.713255,delivered
+ee970dc4-beb9-4ced-9f3e-a250d713551a,"Phoenix, AZ",2025-04-12T09:11:27.713255,out for delivery
+ee970dc4-beb9-4ced-9f3e-a250d713551a,"El Paso, TX",2025-04-13T09:11:27.713255,delayed
+0622cbff-a874-449e-8a1a-ba122bc39350,"Tucson, AZ",2025-04-11T21:11:27.713345,delayed
+0622cbff-a874-449e-8a1a-ba122bc39350,"Tucson, AZ",2025-04-11T14:11:27.713345,out for delivery
+0622cbff-a874-449e-8a1a-ba122bc39350,"Denver, CO",2025-04-11T02:11:27.713345,out for delivery
+dd2fffde-5736-4024-8490-95eca1f348ef,"Oklahoma City, OK",2025-04-22T02:11:27.713422,delayed
+dd2fffde-5736-4024-8490-95eca1f348ef,"Salt Lake City, UT",2025-04-20T15:11:27.713422,out for delivery
+dd2fffde-5736-4024-8490-95eca1f348ef,"Phoenix, AZ",2025-04-22T00:11:27.713422,delivered
+4437a4ba-ec3d-4b71-a722-a84931dcb8c4,"Salt Lake City, UT",2025-05-02T04:11:27.713508,delayed
+4437a4ba-ec3d-4b71-a722-a84931dcb8c4,"El Paso, TX",2025-04-30T18:11:27.713508,delayed
+464fd480-0eb5-4e50-8de4-31ffef65eab6,"El Paso, TX",2025-05-02T13:11:27.713583,delayed
+464fd480-0eb5-4e50-8de4-31ffef65eab6,"Oklahoma City, OK",2025-05-02T06:11:27.713583,in transit
+0257746c-5601-4fbf-84a9-462387e73d9b,"Salt Lake City, UT",2025-04-28T04:11:27.713656,out for delivery
+0257746c-5601-4fbf-84a9-462387e73d9b,"El Paso, TX",2025-04-26T17:11:27.713656,delayed
+7b2a9733-01ac-40fa-bec8-0a7363679d7b,"Las Vegas, NV",2025-04-08T00:11:27.713739,delayed
+7b2a9733-01ac-40fa-bec8-0a7363679d7b,"Denver, CO",2025-04-09T18:11:27.713739,arrived at hub
+94e31d67-afb7-479f-bae5-87fde5c8934d,"El Paso, TX",2025-04-15T11:11:27.713813,delivered
+94e31d67-afb7-479f-bae5-87fde5c8934d,"Salt Lake City, UT",2025-04-14T23:11:27.713813,arrived at hub
+1dc0d276-403b-436e-a208-73ab03ccab90,"Salt Lake City, UT",2025-05-01T02:11:27.713895,delayed
+1dc0d276-403b-436e-a208-73ab03ccab90,"Salt Lake City, UT",2025-04-30T08:11:27.713895,in transit
+1dc0d276-403b-436e-a208-73ab03ccab90,"Phoenix, AZ",2025-05-01T00:11:27.713895,arrived at hub
+de69af4c-6099-4631-8add-6df9ade79e3c,"Salt Lake City, UT",2025-04-28T15:11:27.713978,delivered
+de69af4c-6099-4631-8add-6df9ade79e3c,"Phoenix, AZ",2025-04-28T11:11:27.713978,out for delivery
+13b48a2e-545c-4787-a668-700ce00126b1,"El Paso, TX",2025-04-10T22:11:27.714051,in transit
+13b48a2e-545c-4787-a668-700ce00126b1,"Las Vegas, NV",2025-04-11T23:11:27.714051,delayed
+a26b359c-c270-44c7-a610-ae7ac9e8754c,"Phoenix, AZ",2025-04-09T12:11:27.714133,arrived at hub
+a26b359c-c270-44c7-a610-ae7ac9e8754c,"Phoenix, AZ",2025-04-10T01:11:27.714133,delivered
+a26b359c-c270-44c7-a610-ae7ac9e8754c,"El Paso, TX",2025-04-09T06:11:27.714133,arrived at hub
+4ef15cb4-762d-4abf-80bc-8f641fd56021,"Oklahoma City, OK",2025-05-02T00:11:27.714216,delayed
+4ef15cb4-762d-4abf-80bc-8f641fd56021,"Phoenix, AZ",2025-05-01T17:11:27.714216,arrived at hub
+70c8ce44-c9a4-44c8-b3f3-ec42e63e261a,"Las Vegas, NV",2025-04-12T17:11:27.714299,out for delivery
+70c8ce44-c9a4-44c8-b3f3-ec42e63e261a,"Phoenix, AZ",2025-04-13T03:11:27.714299,arrived at hub
+d0d3305c-e491-433f-b665-72f9c3f4d97d,"Tucson, AZ",2025-04-14T14:11:27.714369,delayed
+d0d3305c-e491-433f-b665-72f9c3f4d97d,"El Paso, TX",2025-04-14T18:11:27.714369,arrived at hub
+fd26c5c1-f16f-45b3-af7f-2d8204482200,"Salt Lake City, UT",2025-04-06T01:11:27.714441,out for delivery
+fd26c5c1-f16f-45b3-af7f-2d8204482200,"Las Vegas, NV",2025-04-07T17:11:27.714441,in transit
+fd26c5c1-f16f-45b3-af7f-2d8204482200,"Denver, CO",2025-04-07T12:11:27.714441,out for delivery
+01ae8402-65aa-49b2-8d1d-a14afbc32235,"Salt Lake City, UT",2025-04-27T19:11:27.714511,delayed
+01ae8402-65aa-49b2-8d1d-a14afbc32235,"Oklahoma City, OK",2025-04-27T01:11:27.714511,delayed
+01ae8402-65aa-49b2-8d1d-a14afbc32235,"Phoenix, AZ",2025-04-28T10:11:27.714511,out for delivery
+3a508963-7a47-44b4-b471-b709c1ca76e0,"Phoenix, AZ",2025-04-20T13:11:27.714584,out for delivery
+3a508963-7a47-44b4-b471-b709c1ca76e0,"Oklahoma City, OK",2025-04-20T00:11:27.714584,arrived at hub
+3a508963-7a47-44b4-b471-b709c1ca76e0,"Phoenix, AZ",2025-04-19T15:11:27.714584,delayed
+cb69d6ee-d433-4e4d-a983-09b05532dabc,"Salt Lake City, UT",2025-04-05T05:11:27.714666,delivered
+cb69d6ee-d433-4e4d-a983-09b05532dabc,"Phoenix, AZ",2025-04-05T15:11:27.714666,delivered
+9363e3e1-aab5-4822-986d-d7b164af7d91,"Salt Lake City, UT",2025-04-16T16:11:27.714736,arrived at hub
+9363e3e1-aab5-4822-986d-d7b164af7d91,"Salt Lake City, UT",2025-04-17T07:11:27.714736,arrived at hub
+d9d17409-041b-4c19-977d-5de1c9fb5e6a,"Salt Lake City, UT",2025-04-26T00:11:27.714940,arrived at hub
+d9d17409-041b-4c19-977d-5de1c9fb5e6a,"El Paso, TX",2025-04-25T05:11:27.714940,delayed
+dd6e8dd8-0e19-4342-bbaa-e25415d3d89d,"Oklahoma City, OK",2025-04-29T03:11:27.715039,in transit
+dd6e8dd8-0e19-4342-bbaa-e25415d3d89d,"Phoenix, AZ",2025-04-29T05:11:27.715039,delayed
+ae8457c6-7aff-4abd-b20a-251e35f9c37d,"Phoenix, AZ",2025-04-07T06:11:27.715115,arrived at hub
+ae8457c6-7aff-4abd-b20a-251e35f9c37d,"Phoenix, AZ",2025-04-06T22:11:27.715115,arrived at hub
+977d33d2-b1c0-416c-aba0-e018b8ec407d,"Phoenix, AZ",2025-04-26T08:11:27.715200,in transit
+977d33d2-b1c0-416c-aba0-e018b8ec407d,"Tucson, AZ",2025-04-26T01:11:27.715200,delayed
+977d33d2-b1c0-416c-aba0-e018b8ec407d,"El Paso, TX",2025-04-26T06:11:27.715200,in transit
+0ca1cd90-0cd2-4039-a70a-08c6dd14dcac,"Denver, CO",2025-05-01T05:11:27.715272,delivered
+0ca1cd90-0cd2-4039-a70a-08c6dd14dcac,"Oklahoma City, OK",2025-04-28T18:11:27.715272,delivered
+0ca1cd90-0cd2-4039-a70a-08c6dd14dcac,"Tucson, AZ",2025-04-30T03:11:27.715272,in transit
+32f1074d-6b22-49fe-9e9d-34463453363b,"Salt Lake City, UT",2025-05-06T02:11:27.715345,out for delivery
+32f1074d-6b22-49fe-9e9d-34463453363b,"Oklahoma City, OK",2025-05-05T19:11:27.715345,in transit
+eaabb8ba-6320-4bbe-91b0-825bbe389ff3,"Phoenix, AZ",2025-04-13T21:11:27.715417,in transit
+eaabb8ba-6320-4bbe-91b0-825bbe389ff3,"El Paso, TX",2025-04-13T06:11:27.715417,arrived at hub
+eaabb8ba-6320-4bbe-91b0-825bbe389ff3,"Denver, CO",2025-04-11T21:11:27.715417,delayed
+c48624c5-fdf4-4dd8-97d4-99489eb223bb,"El Paso, TX",2025-05-02T13:11:27.715503,delivered
+c48624c5-fdf4-4dd8-97d4-99489eb223bb,"Tucson, AZ",2025-05-02T02:11:27.715503,delivered
+c48624c5-fdf4-4dd8-97d4-99489eb223bb,"Phoenix, AZ",2025-05-02T20:11:27.715503,in transit
+0aed5158-a70e-4735-be11-c4f5b1a04583,"Tucson, AZ",2025-05-06T20:11:27.715637,arrived at hub
+0aed5158-a70e-4735-be11-c4f5b1a04583,"Las Vegas, NV",2025-05-06T17:11:27.715637,out for delivery
+629dc55a-7422-4aa9-b32b-ea88faa25a76,"Oklahoma City, OK",2025-04-09T18:11:27.715723,in transit
+629dc55a-7422-4aa9-b32b-ea88faa25a76,"Tucson, AZ",2025-04-09T05:11:27.715723,delayed
+629dc55a-7422-4aa9-b32b-ea88faa25a76,"Las Vegas, NV",2025-04-08T21:11:27.715723,arrived at hub
+6493cde9-290f-4c22-8b18-fe16e9bb12db,"Phoenix, AZ",2025-04-27T21:11:27.715800,in transit
+6493cde9-290f-4c22-8b18-fe16e9bb12db,"Tucson, AZ",2025-04-28T00:11:27.715800,in transit
+6493cde9-290f-4c22-8b18-fe16e9bb12db,"Salt Lake City, UT",2025-04-29T12:11:27.715800,arrived at hub
+70c062d0-7a16-41ba-b127-6c086ff3e236,"Oklahoma City, OK",2025-04-28T07:11:27.715917,in transit
+70c062d0-7a16-41ba-b127-6c086ff3e236,"Las Vegas, NV",2025-04-28T17:11:27.715917,out for delivery
+37443f73-c776-48f5-b5a9-85724f5b5d5e,"El Paso, TX",2025-04-25T01:11:27.716004,delayed
+37443f73-c776-48f5-b5a9-85724f5b5d5e,"Phoenix, AZ",2025-04-25T10:11:27.716004,delivered
+9cc6385c-0f9a-426f-b747-4395d34d48ee,"Oklahoma City, OK",2025-04-05T08:11:27.716078,out for delivery
+9cc6385c-0f9a-426f-b747-4395d34d48ee,"Salt Lake City, UT",2025-04-05T17:11:27.716078,in transit
+563fdb85-38d2-4ea9-a293-9687a6d34c13,"Phoenix, AZ",2025-05-01T12:11:27.716153,delayed
+563fdb85-38d2-4ea9-a293-9687a6d34c13,"Salt Lake City, UT",2025-04-30T17:11:27.716153,out for delivery
+563fdb85-38d2-4ea9-a293-9687a6d34c13,"El Paso, TX",2025-04-29T16:11:27.716153,delayed
+ba464134-7e62-45b3-a2b7-26f654f4f60e,"Las Vegas, NV",2025-04-18T12:11:27.716251,delayed
+ba464134-7e62-45b3-a2b7-26f654f4f60e,"Las Vegas, NV",2025-04-19T08:11:27.716251,in transit
+75106071-83d1-4890-a850-080d22e3f0ab,"El Paso, TX",2025-04-14T07:11:27.716333,out for delivery
+75106071-83d1-4890-a850-080d22e3f0ab,"Denver, CO",2025-04-13T21:11:27.716333,in transit
+2645aef2-6b79-4c8f-8520-95d3f6b085fd,"Denver, CO",2025-04-24T08:11:27.716422,out for delivery
+2645aef2-6b79-4c8f-8520-95d3f6b085fd,"Tucson, AZ",2025-04-23T18:11:27.716422,delayed
+1dafb938-d356-4f21-90dc-41e58ca241c9,"Las Vegas, NV",2025-04-06T12:11:27.716505,delayed
+1dafb938-d356-4f21-90dc-41e58ca241c9,"Phoenix, AZ",2025-04-04T23:11:27.716505,arrived at hub
+c1076bc2-c504-4b4e-92cf-7d77b0b62238,"Oklahoma City, OK",2025-04-09T19:11:27.716584,in transit
+c1076bc2-c504-4b4e-92cf-7d77b0b62238,"Tucson, AZ",2025-04-10T23:11:27.716584,out for delivery
+e33fb370-ff0a-4881-8294-e2c85b10b62e,"Tucson, AZ",2025-04-13T21:11:27.716664,delayed
+e33fb370-ff0a-4881-8294-e2c85b10b62e,"Salt Lake City, UT",2025-04-12T16:11:27.716664,delivered
+e33fb370-ff0a-4881-8294-e2c85b10b62e,"Las Vegas, NV",2025-04-12T03:11:27.716664,out for delivery
+32a87607-31a3-4f05-9deb-a9593cbb8cb7,"Oklahoma City, OK",2025-04-08T01:11:27.716743,delivered
+32a87607-31a3-4f05-9deb-a9593cbb8cb7,"El Paso, TX",2025-04-09T03:11:27.716743,delayed
+b00f5f4e-0536-4999-ad61-760130d57d9b,"Tucson, AZ",2025-04-05T17:11:27.716825,delivered
+b00f5f4e-0536-4999-ad61-760130d57d9b,"Phoenix, AZ",2025-04-04T20:11:27.716825,arrived at hub
+f9d14101-fca0-442e-838d-e609d595010f,"Salt Lake City, UT",2025-04-24T16:11:27.716922,arrived at hub
+f9d14101-fca0-442e-838d-e609d595010f,"Las Vegas, NV",2025-04-24T21:11:27.716922,delayed
+f9d14101-fca0-442e-838d-e609d595010f,"Phoenix, AZ",2025-04-24T04:11:27.716922,out for delivery
+04bfdfa3-2fb1-4e31-a3e9-fd789d68a2fd,"Denver, CO",2025-04-23T11:11:27.717580,out for delivery
+04bfdfa3-2fb1-4e31-a3e9-fd789d68a2fd,"Oklahoma City, OK",2025-04-25T09:11:27.717580,arrived at hub
+04bfdfa3-2fb1-4e31-a3e9-fd789d68a2fd,"El Paso, TX",2025-04-25T05:11:27.717580,delayed
+ee953f88-7712-4304-ba23-56a3fd990761,"Salt Lake City, UT",2025-04-16T15:11:27.717667,in transit
+ee953f88-7712-4304-ba23-56a3fd990761,"Phoenix, AZ",2025-04-16T20:11:27.717667,out for delivery
+c0265c6d-fc46-4b4b-a7a5-5ccec32585dc,"El Paso, TX",2025-04-16T05:11:27.717746,out for delivery
+c0265c6d-fc46-4b4b-a7a5-5ccec32585dc,"Oklahoma City, OK",2025-04-16T16:11:27.717746,out for delivery
+98966d8a-ee39-49c3-bb31-0f36ace2ae0f,"Tucson, AZ",2025-04-23T03:11:27.717919,in transit
+98966d8a-ee39-49c3-bb31-0f36ace2ae0f,"Denver, CO",2025-04-24T06:11:27.717919,delivered
+98966d8a-ee39-49c3-bb31-0f36ace2ae0f,"Salt Lake City, UT",2025-04-24T23:11:27.717919,delayed
+f03b390c-7db7-4392-84bc-2cac45010916,"Salt Lake City, UT",2025-04-14T20:11:27.718009,in transit
+f03b390c-7db7-4392-84bc-2cac45010916,"Tucson, AZ",2025-04-13T20:11:27.718009,delivered
+1004521a-37b5-4b8a-bd1a-d39ec87349e9,"Phoenix, AZ",2025-04-16T08:11:27.718094,out for delivery
+1004521a-37b5-4b8a-bd1a-d39ec87349e9,"Oklahoma City, OK",2025-04-15T04:11:27.718094,delayed
+1004521a-37b5-4b8a-bd1a-d39ec87349e9,"Las Vegas, NV",2025-04-14T17:11:27.718094,arrived at hub
+2bd8165c-2129-4ce1-8ff2-0e93efc2e1fe,"Oklahoma City, OK",2025-04-07T06:11:27.718182,in transit
+2bd8165c-2129-4ce1-8ff2-0e93efc2e1fe,"El Paso, TX",2025-04-07T08:11:27.718182,arrived at hub
+602149bd-8d3c-4260-9d24-673953154562,"Oklahoma City, OK",2025-05-03T09:11:27.718260,arrived at hub
+602149bd-8d3c-4260-9d24-673953154562,"Phoenix, AZ",2025-05-02T19:11:27.718260,arrived at hub
+602149bd-8d3c-4260-9d24-673953154562,"Denver, CO",2025-05-02T21:11:27.718260,arrived at hub
+cf5c275d-1ea4-4eaa-87d7-beb36ecca967,"Denver, CO",2025-04-20T22:11:27.718335,out for delivery
+cf5c275d-1ea4-4eaa-87d7-beb36ecca967,"Salt Lake City, UT",2025-04-23T00:11:27.718335,delivered
+3e97371c-efac-4f66-a37b-5b8330e54d52,"Salt Lake City, UT",2025-04-30T06:11:27.718421,delayed
+3e97371c-efac-4f66-a37b-5b8330e54d52,"Tucson, AZ",2025-04-29T08:11:27.718421,in transit
+3e97371c-efac-4f66-a37b-5b8330e54d52,"Tucson, AZ",2025-05-01T01:11:27.718421,delayed
+6e8a997e-6f16-4ec8-ad25-491bb21f4727,"Las Vegas, NV",2025-04-23T20:11:27.718493,delivered
+6e8a997e-6f16-4ec8-ad25-491bb21f4727,"Las Vegas, NV",2025-04-23T22:11:27.718493,out for delivery
+6e8a997e-6f16-4ec8-ad25-491bb21f4727,"Phoenix, AZ",2025-04-25T22:11:27.718493,in transit
+6cff479f-6095-4150-ae8f-ad0fb6a8deb9,"Phoenix, AZ",2025-04-18T01:11:27.718565,in transit
+6cff479f-6095-4150-ae8f-ad0fb6a8deb9,"Tucson, AZ",2025-04-19T05:11:27.718565,out for delivery
+6cff479f-6095-4150-ae8f-ad0fb6a8deb9,"Tucson, AZ",2025-04-16T18:11:27.718565,delivered
+ee5aed76-e2b5-4fae-a2da-5bce1b74ae40,"El Paso, TX",2025-04-25T06:11:27.718647,out for delivery
+ee5aed76-e2b5-4fae-a2da-5bce1b74ae40,"Denver, CO",2025-04-26T05:11:27.718647,in transit
+edb73078-0754-43dc-856c-bf4d8aa91d16,"Salt Lake City, UT",2025-04-27T02:11:27.718729,delayed
+edb73078-0754-43dc-856c-bf4d8aa91d16,"El Paso, TX",2025-04-26T23:11:27.718729,arrived at hub
+edb73078-0754-43dc-856c-bf4d8aa91d16,"Denver, CO",2025-04-26T18:11:27.718729,out for delivery
+a34c1475-e6f9-4970-bf85-c8b30f502484,"El Paso, TX",2025-04-28T08:11:27.718800,delivered
+a34c1475-e6f9-4970-bf85-c8b30f502484,"Las Vegas, NV",2025-04-26T09:11:27.718800,delayed
+a34c1475-e6f9-4970-bf85-c8b30f502484,"Tucson, AZ",2025-04-27T01:11:27.718800,out for delivery
+b3a2d6be-58d9-433e-aa1e-2524e9dfbebd,"Salt Lake City, UT",2025-04-06T19:11:27.718886,delayed
+b3a2d6be-58d9-433e-aa1e-2524e9dfbebd,"Las Vegas, NV",2025-04-06T21:11:27.718886,in transit
+b3a2d6be-58d9-433e-aa1e-2524e9dfbebd,"Las Vegas, NV",2025-04-08T14:11:27.718886,delayed
+c8d0b32f-c736-42fd-bc95-c5e38276154b,"Phoenix, AZ",2025-05-06T07:11:27.718988,delivered
+c8d0b32f-c736-42fd-bc95-c5e38276154b,"Las Vegas, NV",2025-05-05T07:11:27.718988,delayed
+88caabb6-1cd0-4a10-a51d-fecbd92c09ae,"El Paso, TX",2025-04-22T05:11:27.719078,in transit
+88caabb6-1cd0-4a10-a51d-fecbd92c09ae,"El Paso, TX",2025-04-23T04:11:27.719078,out for delivery
+88caabb6-1cd0-4a10-a51d-fecbd92c09ae,"Salt Lake City, UT",2025-04-23T07:11:27.719078,arrived at hub
+5a057df6-5f6b-49be-b1ed-1c1b71fd6e84,"El Paso, TX",2025-04-15T19:11:27.719162,delayed
+5a057df6-5f6b-49be-b1ed-1c1b71fd6e84,"Las Vegas, NV",2025-04-13T15:11:27.719162,delayed
+fcf2ac86-062f-4a0c-b5ed-4102ecaf04a8,"Las Vegas, NV",2025-04-30T16:11:27.719258,out for delivery
+fcf2ac86-062f-4a0c-b5ed-4102ecaf04a8,"Denver, CO",2025-04-30T13:11:27.719258,arrived at hub
+b538795f-1ba9-4671-b1db-2b26b8bc6358,"Las Vegas, NV",2025-04-29T22:11:27.719393,in transit
+b538795f-1ba9-4671-b1db-2b26b8bc6358,"Salt Lake City, UT",2025-05-02T05:11:27.719393,delivered
+901ec332-f8d1-42e5-873a-26206b39761b,"Salt Lake City, UT",2025-04-24T08:11:27.719470,delivered
+901ec332-f8d1-42e5-873a-26206b39761b,"El Paso, TX",2025-04-23T05:11:27.719470,out for delivery
+46137211-fc71-49a8-ad9f-5a6569691618,"Denver, CO",2025-05-01T09:11:27.719546,delivered
+46137211-fc71-49a8-ad9f-5a6569691618,"Oklahoma City, OK",2025-05-01T10:11:27.719546,out for delivery
+27118223-1a8c-4ff7-a157-620160cd4242,"Las Vegas, NV",2025-04-27T17:11:27.719633,arrived at hub
+27118223-1a8c-4ff7-a157-620160cd4242,"El Paso, TX",2025-04-27T21:11:27.719633,delayed
+cca23cb3-9a89-4110-ba08-8f5978486a40,"El Paso, TX",2025-04-13T18:11:27.719706,arrived at hub
+cca23cb3-9a89-4110-ba08-8f5978486a40,"Salt Lake City, UT",2025-04-14T04:11:27.719706,out for delivery
+cca23cb3-9a89-4110-ba08-8f5978486a40,"Las Vegas, NV",2025-04-13T13:11:27.719706,delivered
+0821b95f-b9cc-47dd-ad7c-21f6c26c26fd,"Salt Lake City, UT",2025-05-02T00:11:27.719781,delayed
+0821b95f-b9cc-47dd-ad7c-21f6c26c26fd,"El Paso, TX",2025-05-01T13:11:27.719781,delivered
+0821b95f-b9cc-47dd-ad7c-21f6c26c26fd,"Denver, CO",2025-05-01T18:11:27.719781,arrived at hub
+c5f71753-fef7-4d10-9030-53e7e23d8fda,"Phoenix, AZ",2025-04-10T21:11:27.719867,out for delivery
+c5f71753-fef7-4d10-9030-53e7e23d8fda,"El Paso, TX",2025-04-11T12:11:27.719867,in transit
+68882735-5217-4c8e-a365-5d456451edc7,"Phoenix, AZ",2025-04-17T01:11:27.719955,arrived at hub
+68882735-5217-4c8e-a365-5d456451edc7,"Tucson, AZ",2025-04-16T23:11:27.719955,delivered
+5182b13e-52ee-419f-ad22-761cf423f3d0,"Phoenix, AZ",2025-04-18T20:11:27.720044,arrived at hub
+5182b13e-52ee-419f-ad22-761cf423f3d0,"Las Vegas, NV",2025-04-18T22:11:27.720044,in transit
+04374e89-ed27-4149-b156-efae1e635261,"Tucson, AZ",2025-05-02T19:11:27.720139,delivered
+04374e89-ed27-4149-b156-efae1e635261,"Denver, CO",2025-05-04T12:11:27.720139,out for delivery
+04374e89-ed27-4149-b156-efae1e635261,"Las Vegas, NV",2025-05-02T23:11:27.720139,arrived at hub
+b63ab829-3486-4723-bebf-7f6dc39d53a3,"Phoenix, AZ",2025-04-13T05:11:27.720215,delayed
+b63ab829-3486-4723-bebf-7f6dc39d53a3,"Denver, CO",2025-04-12T07:11:27.720215,in transit
+42e4af81-62f4-4a6b-b648-4941e69de751,"Oklahoma City, OK",2025-04-19T01:11:27.720301,arrived at hub
+42e4af81-62f4-4a6b-b648-4941e69de751,"Tucson, AZ",2025-04-19T01:11:27.720301,delivered
+42e4af81-62f4-4a6b-b648-4941e69de751,"Phoenix, AZ",2025-04-16T13:11:27.720301,in transit
+f1491d1a-7127-4feb-8b73-425dd0ac6e44,"Salt Lake City, UT",2025-04-12T16:11:27.720372,arrived at hub
+f1491d1a-7127-4feb-8b73-425dd0ac6e44,"Tucson, AZ",2025-04-14T08:11:27.720372,in transit
+f1491d1a-7127-4feb-8b73-425dd0ac6e44,"Denver, CO",2025-04-13T01:11:27.720372,delayed
+f3d52553-37b3-4abf-b368-a0587716845f,"Denver, CO",2025-04-12T19:11:27.720443,out for delivery
+f3d52553-37b3-4abf-b368-a0587716845f,"Phoenix, AZ",2025-04-14T23:11:27.720443,in transit
+0c19904c-2393-428b-9d57-1dc7d569a6d7,"Phoenix, AZ",2025-05-04T09:11:27.720513,delivered
+0c19904c-2393-428b-9d57-1dc7d569a6d7,"Oklahoma City, OK",2025-05-02T19:11:27.720513,arrived at hub
+0c19904c-2393-428b-9d57-1dc7d569a6d7,"Tucson, AZ",2025-05-03T02:11:27.720513,in transit
+4a1f4840-32df-476b-bbcf-46ad7087a777,"El Paso, TX",2025-04-10T19:11:27.720596,out for delivery
+4a1f4840-32df-476b-bbcf-46ad7087a777,"Oklahoma City, OK",2025-04-10T12:11:27.720596,in transit
+4a1f4840-32df-476b-bbcf-46ad7087a777,"Las Vegas, NV",2025-04-12T08:11:27.720596,in transit
+f80a3197-c3ba-4706-ba88-850273d31219,"Salt Lake City, UT",2025-04-14T14:11:27.720671,out for delivery
+f80a3197-c3ba-4706-ba88-850273d31219,"Oklahoma City, OK",2025-04-12T18:11:27.720671,out for delivery
+f0cbbfe7-37b9-4c52-8a55-9c6c401738ea,"Oklahoma City, OK",2025-04-20T21:11:27.720754,in transit
+f0cbbfe7-37b9-4c52-8a55-9c6c401738ea,"Salt Lake City, UT",2025-04-21T10:11:27.720754,in transit
+f0cbbfe7-37b9-4c52-8a55-9c6c401738ea,"Denver, CO",2025-04-21T09:11:27.720754,in transit
+31638fc0-f43c-4849-8a9b-8a229a237c33,"Phoenix, AZ",2025-04-14T06:11:27.720828,delayed
+31638fc0-f43c-4849-8a9b-8a229a237c33,"Salt Lake City, UT",2025-04-15T08:11:27.720828,arrived at hub
+31638fc0-f43c-4849-8a9b-8a229a237c33,"Oklahoma City, OK",2025-04-16T00:11:27.720828,out for delivery
+ae1d5d7f-b6e7-4f33-9588-337c2241c2c5,"Phoenix, AZ",2025-04-09T06:11:27.720914,out for delivery
+ae1d5d7f-b6e7-4f33-9588-337c2241c2c5,"Las Vegas, NV",2025-04-08T17:11:27.720914,arrived at hub
+1e60886a-c163-4da2-9733-30752a1a851d,"Phoenix, AZ",2025-04-18T14:11:27.721018,delayed
+1e60886a-c163-4da2-9733-30752a1a851d,"El Paso, TX",2025-04-19T04:11:27.721018,out for delivery
+04cfba97-068d-4d98-9fca-2825f56466f8,"Phoenix, AZ",2025-04-09T21:11:27.721095,arrived at hub
+04cfba97-068d-4d98-9fca-2825f56466f8,"Las Vegas, NV",2025-04-10T01:11:27.721095,in transit
+04cfba97-068d-4d98-9fca-2825f56466f8,"Las Vegas, NV",2025-04-10T07:11:27.721095,in transit
+a04ccca8-d086-419d-bbf7-923b7c68d8db,"Tucson, AZ",2025-04-09T20:11:27.721170,out for delivery
+a04ccca8-d086-419d-bbf7-923b7c68d8db,"Las Vegas, NV",2025-04-09T14:11:27.721170,arrived at hub
+a04ccca8-d086-419d-bbf7-923b7c68d8db,"Oklahoma City, OK",2025-04-10T04:11:27.721170,out for delivery
+c5f3703b-531e-49d3-a4d5-039239e63720,"Las Vegas, NV",2025-04-15T07:11:27.721245,in transit
+c5f3703b-531e-49d3-a4d5-039239e63720,"Phoenix, AZ",2025-04-14T19:11:27.721245,out for delivery
+c5f3703b-531e-49d3-a4d5-039239e63720,"El Paso, TX",2025-04-13T12:11:27.721245,delayed
+a13f7756-1996-46fa-96ca-aa043d42b20f,"Phoenix, AZ",2025-05-02T02:11:27.721318,delayed
+a13f7756-1996-46fa-96ca-aa043d42b20f,"Las Vegas, NV",2025-05-03T02:11:27.721318,out for delivery
+a13f7756-1996-46fa-96ca-aa043d42b20f,"Denver, CO",2025-05-03T19:11:27.721318,out for delivery
+a23928d8-5e8b-495b-b264-aacab4018b79,"Phoenix, AZ",2025-04-06T22:11:27.721389,delayed
+a23928d8-5e8b-495b-b264-aacab4018b79,"Las Vegas, NV",2025-04-06T20:11:27.721389,in transit
+a23928d8-5e8b-495b-b264-aacab4018b79,"Oklahoma City, OK",2025-04-04T22:11:27.721389,out for delivery
+e8acc769-cffd-4165-9be2-4d64dc7b6f00,"Salt Lake City, UT",2025-04-10T06:11:27.721472,arrived at hub
+e8acc769-cffd-4165-9be2-4d64dc7b6f00,"Denver, CO",2025-04-07T16:11:27.721472,delivered
+e8acc769-cffd-4165-9be2-4d64dc7b6f00,"Phoenix, AZ",2025-04-09T21:11:27.721472,arrived at hub
+c19d3be4-220e-49d4-86ac-9b2b78c07172,"Salt Lake City, UT",2025-04-30T19:11:27.721555,delayed
+c19d3be4-220e-49d4-86ac-9b2b78c07172,"Tucson, AZ",2025-05-01T11:11:27.721555,delivered
+a9ece6db-3a05-4418-81c5-0fea6f1fac40,"Oklahoma City, OK",2025-04-23T08:11:27.721633,out for delivery
+a9ece6db-3a05-4418-81c5-0fea6f1fac40,"Las Vegas, NV",2025-04-24T12:11:27.721633,out for delivery
+e4412a55-56fc-4460-b468-190b6a0064b1,"El Paso, TX",2025-04-11T06:11:27.721709,delayed
+e4412a55-56fc-4460-b468-190b6a0064b1,"Las Vegas, NV",2025-04-12T15:11:27.721709,delayed
+ed8d89e0-8e2a-440c-a3c5-f3851e5857b4,"Phoenix, AZ",2025-04-29T03:11:27.721783,arrived at hub
+ed8d89e0-8e2a-440c-a3c5-f3851e5857b4,"El Paso, TX",2025-05-01T04:11:27.721783,out for delivery
+ac79f0ae-4b77-49d6-bca8-7ce0836e39b1,"Salt Lake City, UT",2025-04-12T22:11:27.721857,delayed
+ac79f0ae-4b77-49d6-bca8-7ce0836e39b1,"Denver, CO",2025-04-13T22:11:27.721857,delivered
+bec7c568-6b1b-4de9-9b7c-ce576390c3a9,"Denver, CO",2025-05-06T03:11:27.721933,in transit
+bec7c568-6b1b-4de9-9b7c-ce576390c3a9,"Salt Lake City, UT",2025-05-04T06:11:27.721933,in transit
+bec7c568-6b1b-4de9-9b7c-ce576390c3a9,"Denver, CO",2025-05-05T22:11:27.721933,out for delivery
+58cd49a8-f613-4f41-9dfb-713ba4708cfa,"Oklahoma City, OK",2025-04-22T05:11:27.722024,delayed
+58cd49a8-f613-4f41-9dfb-713ba4708cfa,"El Paso, TX",2025-04-20T21:11:27.722024,delivered
+7ef53de4-0c99-4f9e-8ceb-df6a0c8e1b6d,"Salt Lake City, UT",2025-04-12T03:11:27.722101,arrived at hub
+7ef53de4-0c99-4f9e-8ceb-df6a0c8e1b6d,"Salt Lake City, UT",2025-04-11T11:11:27.722101,delayed
+7ef53de4-0c99-4f9e-8ceb-df6a0c8e1b6d,"Denver, CO",2025-04-13T06:11:27.722101,in transit
+2642fc9e-d94d-40d5-9562-c98989cfdd7d,"Denver, CO",2025-04-14T06:11:27.722177,out for delivery
+2642fc9e-d94d-40d5-9562-c98989cfdd7d,"Las Vegas, NV",2025-04-13T16:11:27.722177,delivered
+58ee8e5d-13cb-4058-a763-696291d7bf56,"Salt Lake City, UT",2025-04-27T00:11:27.722251,delivered
+58ee8e5d-13cb-4058-a763-696291d7bf56,"El Paso, TX",2025-04-25T05:11:27.722251,in transit
+58ee8e5d-13cb-4058-a763-696291d7bf56,"Las Vegas, NV",2025-04-24T21:11:27.722251,out for delivery
+82535636-17bd-40af-8b98-cab40e50562b,"Tucson, AZ",2025-04-07T08:11:27.722324,out for delivery
+82535636-17bd-40af-8b98-cab40e50562b,"Denver, CO",2025-04-04T22:11:27.722324,delayed
+82535636-17bd-40af-8b98-cab40e50562b,"Tucson, AZ",2025-04-04T22:11:27.722324,out for delivery
+a9a88609-bad3-4f62-8d32-533bb5cda3bf,"Salt Lake City, UT",2025-04-29T05:11:27.722398,delivered
+a9a88609-bad3-4f62-8d32-533bb5cda3bf,"Salt Lake City, UT",2025-04-29T12:11:27.722398,arrived at hub
+a9a88609-bad3-4f62-8d32-533bb5cda3bf,"El Paso, TX",2025-04-30T20:11:27.722398,in transit
+afdb9eaa-3821-40ff-b35e-71a8f7648213,"Denver, CO",2025-05-02T07:11:27.722473,delayed
+afdb9eaa-3821-40ff-b35e-71a8f7648213,"Denver, CO",2025-04-30T10:11:27.722473,delayed
+5dc1cafe-2372-44dc-b28e-fef474b32ad6,"El Paso, TX",2025-04-24T09:11:27.722550,delayed
+5dc1cafe-2372-44dc-b28e-fef474b32ad6,"Las Vegas, NV",2025-04-22T23:11:27.722550,arrived at hub
+ba88c389-b2ab-430d-b33e-2339a63a4028,"Oklahoma City, OK",2025-04-05T05:11:27.722725,delayed
+ba88c389-b2ab-430d-b33e-2339a63a4028,"Phoenix, AZ",2025-04-07T09:11:27.722725,delivered
+ba88c389-b2ab-430d-b33e-2339a63a4028,"El Paso, TX",2025-04-05T10:11:27.722725,delivered
+82ec2477-e65a-4aa7-8d67-581eff2fb816,"Oklahoma City, OK",2025-04-07T10:11:27.722814,delivered
+82ec2477-e65a-4aa7-8d67-581eff2fb816,"Salt Lake City, UT",2025-04-08T08:11:27.722814,delivered
+1595f055-de4b-4a89-a046-5b578074cab0,"Phoenix, AZ",2025-04-11T16:11:27.722891,in transit
+1595f055-de4b-4a89-a046-5b578074cab0,"Oklahoma City, OK",2025-04-12T22:11:27.722891,arrived at hub
+f65766d6-252d-44e2-9a8a-6ed4d1434a5e,"Tucson, AZ",2025-05-03T16:11:27.722986,delivered
+f65766d6-252d-44e2-9a8a-6ed4d1434a5e,"Oklahoma City, OK",2025-05-05T02:11:27.722986,delayed
+f65766d6-252d-44e2-9a8a-6ed4d1434a5e,"Denver, CO",2025-05-06T02:11:27.722986,out for delivery
+5373220b-ad37-4d36-8383-5cdad05eac7c,"Phoenix, AZ",2025-04-26T23:11:27.723080,in transit
+5373220b-ad37-4d36-8383-5cdad05eac7c,"Tucson, AZ",2025-04-25T09:11:27.723080,out for delivery
+5373220b-ad37-4d36-8383-5cdad05eac7c,"Tucson, AZ",2025-04-27T02:11:27.723080,arrived at hub
+d6a88c87-a80a-4edd-98ed-f9b9c37d3fe9,"Las Vegas, NV",2025-04-18T07:11:27.723168,delayed
+d6a88c87-a80a-4edd-98ed-f9b9c37d3fe9,"Tucson, AZ",2025-04-19T09:11:27.723168,arrived at hub
+d6a88c87-a80a-4edd-98ed-f9b9c37d3fe9,"El Paso, TX",2025-04-19T12:11:27.723168,delivered
+bc559b12-97f6-4eed-b2a9-cd625b98c379,"Denver, CO",2025-04-10T05:11:27.723273,out for delivery
+bc559b12-97f6-4eed-b2a9-cd625b98c379,"Las Vegas, NV",2025-04-09T04:11:27.723273,out for delivery
+efb8e8f9-4729-45b2-8966-9aa0fe2a4ac9,"Phoenix, AZ",2025-05-05T07:11:27.723358,in transit
+efb8e8f9-4729-45b2-8966-9aa0fe2a4ac9,"Tucson, AZ",2025-05-06T02:11:27.723358,delivered
+40ae5fa0-4b85-436d-9b8c-afee1d53fe41,"Salt Lake City, UT",2025-05-04T20:11:27.723438,arrived at hub
+40ae5fa0-4b85-436d-9b8c-afee1d53fe41,"El Paso, TX",2025-05-05T06:11:27.723438,delayed
+40ae5fa0-4b85-436d-9b8c-afee1d53fe41,"Salt Lake City, UT",2025-05-04T13:11:27.723438,arrived at hub
+645270c1-3901-42c0-b111-d4d03958add6,"Tucson, AZ",2025-04-19T06:11:27.723513,out for delivery
+645270c1-3901-42c0-b111-d4d03958add6,"Tucson, AZ",2025-04-18T04:11:27.723513,in transit
+645270c1-3901-42c0-b111-d4d03958add6,"Tucson, AZ",2025-04-17T00:11:27.723513,delivered
+52301cad-8974-4ea4-b028-fbdbb50264b6,"Denver, CO",2025-04-14T19:11:27.723601,delivered
+52301cad-8974-4ea4-b028-fbdbb50264b6,"Phoenix, AZ",2025-04-15T10:11:27.723601,in transit
+52301cad-8974-4ea4-b028-fbdbb50264b6,"Tucson, AZ",2025-04-15T01:11:27.723601,delivered
+3e6ed511-5c74-4e3d-bb75-4c6f2051c4a2,"El Paso, TX",2025-04-17T01:11:27.723925,in transit
+3e6ed511-5c74-4e3d-bb75-4c6f2051c4a2,"Tucson, AZ",2025-04-16T02:11:27.723925,arrived at hub
+3e6ed511-5c74-4e3d-bb75-4c6f2051c4a2,"Oklahoma City, OK",2025-04-16T22:11:27.723925,delayed
+d6b4cea1-89d6-46b2-ac5d-164a01f63147,"Phoenix, AZ",2025-04-07T11:11:27.724333,out for delivery
+d6b4cea1-89d6-46b2-ac5d-164a01f63147,"El Paso, TX",2025-04-05T19:11:27.724333,delivered
+d6b4cea1-89d6-46b2-ac5d-164a01f63147,"Las Vegas, NV",2025-04-06T13:11:27.724333,delivered
+c645d9ae-f443-433b-b9c5-b17d03ae0d0b,"Tucson, AZ",2025-04-26T22:11:27.724427,delivered
+c645d9ae-f443-433b-b9c5-b17d03ae0d0b,"Salt Lake City, UT",2025-04-28T22:11:27.724427,delivered
+c645d9ae-f443-433b-b9c5-b17d03ae0d0b,"Salt Lake City, UT",2025-04-28T00:11:27.724427,delivered
+0df5aa2d-2610-42c8-8286-7d8220fa195b,"Phoenix, AZ",2025-04-16T05:11:27.724603,out for delivery
+0df5aa2d-2610-42c8-8286-7d8220fa195b,"Salt Lake City, UT",2025-04-17T12:11:27.724603,delayed
+ee736d6d-f102-426a-a2ba-9f3c318e9b2e,"Denver, CO",2025-04-05T07:11:27.724698,delivered
+ee736d6d-f102-426a-a2ba-9f3c318e9b2e,"Tucson, AZ",2025-04-07T06:11:27.724698,delivered
+ee736d6d-f102-426a-a2ba-9f3c318e9b2e,"Phoenix, AZ",2025-04-04T18:11:27.724698,in transit
+65c09268-df15-4491-a644-69e23095d05c,"Salt Lake City, UT",2025-04-09T07:11:27.724789,out for delivery
+65c09268-df15-4491-a644-69e23095d05c,"Tucson, AZ",2025-04-10T07:11:27.724789,arrived at hub
+2fdb562e-1a0a-449c-81a4-419ebcbb8434,"El Paso, TX",2025-04-29T06:11:27.724868,delayed
+2fdb562e-1a0a-449c-81a4-419ebcbb8434,"Tucson, AZ",2025-04-28T09:11:27.724868,delivered
+d441250e-f105-4cd4-9f79-5cac71d0a7ea,"El Paso, TX",2025-04-28T08:11:27.724979,delivered
+d441250e-f105-4cd4-9f79-5cac71d0a7ea,"Tucson, AZ",2025-04-29T09:11:27.724979,delivered
+d441250e-f105-4cd4-9f79-5cac71d0a7ea,"Tucson, AZ",2025-04-28T03:11:27.724979,in transit
+14ec9ed1-ee93-47bc-abb6-04cf82fc5751,"Oklahoma City, OK",2025-04-11T07:11:27.725072,in transit
+14ec9ed1-ee93-47bc-abb6-04cf82fc5751,"El Paso, TX",2025-04-11T18:11:27.725072,delayed
+14ec9ed1-ee93-47bc-abb6-04cf82fc5751,"El Paso, TX",2025-04-09T16:11:27.725072,out for delivery
+d6c8e97e-ba4c-494a-97bd-2ca59e7cabc6,"Oklahoma City, OK",2025-04-19T18:11:27.725163,in transit
+d6c8e97e-ba4c-494a-97bd-2ca59e7cabc6,"Denver, CO",2025-04-21T02:11:27.725163,delivered
+d6c8e97e-ba4c-494a-97bd-2ca59e7cabc6,"Denver, CO",2025-04-20T13:11:27.725163,arrived at hub
+6c3ad3af-3de3-41a0-8977-1729ffd73d6c,"Denver, CO",2025-04-29T03:11:27.725242,in transit
+6c3ad3af-3de3-41a0-8977-1729ffd73d6c,"Las Vegas, NV",2025-04-30T21:11:27.725242,out for delivery
+665adf3f-51f2-4a06-bce4-3320e7e8a8dc,"Oklahoma City, OK",2025-04-19T17:11:27.725329,arrived at hub
+665adf3f-51f2-4a06-bce4-3320e7e8a8dc,"El Paso, TX",2025-04-19T17:11:27.725329,delivered
+635b1d76-f46b-4a69-8e6e-badec3b7e228,"Oklahoma City, OK",2025-04-25T20:11:27.725427,arrived at hub
+635b1d76-f46b-4a69-8e6e-badec3b7e228,"Denver, CO",2025-04-28T07:11:27.725427,delivered
+635b1d76-f46b-4a69-8e6e-badec3b7e228,"Oklahoma City, OK",2025-04-27T06:11:27.725427,out for delivery
+7dc43709-8bc4-491c-a812-2bb661732906,"Denver, CO",2025-05-05T05:11:27.725553,out for delivery
+7dc43709-8bc4-491c-a812-2bb661732906,"Las Vegas, NV",2025-05-06T09:11:27.725553,delivered
+7dc43709-8bc4-491c-a812-2bb661732906,"Oklahoma City, OK",2025-05-05T10:11:27.725553,delayed
+ba7401e0-8ae5-4342-9d36-f37d210d035b,"Denver, CO",2025-04-26T13:11:27.725635,delayed
+ba7401e0-8ae5-4342-9d36-f37d210d035b,"Denver, CO",2025-04-27T03:11:27.725635,delayed
+ba7401e0-8ae5-4342-9d36-f37d210d035b,"Oklahoma City, OK",2025-04-27T01:11:27.725635,arrived at hub
+e375fe5b-62ee-466f-8274-d155e3f233da,"Tucson, AZ",2025-04-24T05:11:27.725722,delayed
+e375fe5b-62ee-466f-8274-d155e3f233da,"Las Vegas, NV",2025-04-24T00:11:27.725722,in transit
+e375fe5b-62ee-466f-8274-d155e3f233da,"Tucson, AZ",2025-04-24T13:11:27.725722,delayed
+dfd345f5-b1e5-4c69-8112-cbbe0a2cb21a,"Phoenix, AZ",2025-04-15T02:11:27.725810,delayed
+dfd345f5-b1e5-4c69-8112-cbbe0a2cb21a,"Las Vegas, NV",2025-04-13T23:11:27.725810,out for delivery
+877b7ec9-5544-46dc-b805-4cfc922f25d6,"Denver, CO",2025-05-07T02:11:27.725897,arrived at hub
+877b7ec9-5544-46dc-b805-4cfc922f25d6,"Las Vegas, NV",2025-05-07T09:11:27.725897,delivered
+877b7ec9-5544-46dc-b805-4cfc922f25d6,"Denver, CO",2025-05-05T23:11:27.725897,in transit
+d8fa23c9-2813-4818-a7bd-702bc3662379,"Phoenix, AZ",2025-04-21T20:11:27.725975,delivered
+d8fa23c9-2813-4818-a7bd-702bc3662379,"Oklahoma City, OK",2025-04-21T17:11:27.725975,arrived at hub
+08a57afe-5985-47c2-90e9-f2d547e8e9af,"Tucson, AZ",2025-04-25T01:11:27.726075,delayed
+08a57afe-5985-47c2-90e9-f2d547e8e9af,"Phoenix, AZ",2025-04-27T01:11:27.726075,arrived at hub
+1a362871-8a6e-447e-aabb-8c245f3df3f0,"Tucson, AZ",2025-04-08T09:11:27.726150,out for delivery
+1a362871-8a6e-447e-aabb-8c245f3df3f0,"Oklahoma City, OK",2025-04-10T02:11:27.726150,arrived at hub
+ce84d785-8613-463f-bdd8-1644c91f74ad,"Las Vegas, NV",2025-04-29T06:11:27.726224,in transit
+ce84d785-8613-463f-bdd8-1644c91f74ad,"Oklahoma City, OK",2025-04-28T00:11:27.726224,delivered
+ce84d785-8613-463f-bdd8-1644c91f74ad,"El Paso, TX",2025-04-28T18:11:27.726224,in transit
+6925e5ba-5aec-496f-bf4e-1fbb4c803b2b,"Salt Lake City, UT",2025-04-13T18:11:27.726297,arrived at hub
+6925e5ba-5aec-496f-bf4e-1fbb4c803b2b,"Salt Lake City, UT",2025-04-11T17:11:27.726297,out for delivery
+bc31b937-f212-46b0-9098-1661425ad574,"Oklahoma City, OK",2025-04-29T12:11:27.726394,delayed
+bc31b937-f212-46b0-9098-1661425ad574,"Phoenix, AZ",2025-04-28T17:11:27.726394,delayed
+bc31b937-f212-46b0-9098-1661425ad574,"Las Vegas, NV",2025-04-29T02:11:27.726394,delayed
+7a8869a1-0225-4059-800a-285e34e7f1bc,"Tucson, AZ",2025-04-18T08:11:27.726479,arrived at hub
+7a8869a1-0225-4059-800a-285e34e7f1bc,"Tucson, AZ",2025-04-18T05:11:27.726479,delayed
+7a8869a1-0225-4059-800a-285e34e7f1bc,"Salt Lake City, UT",2025-04-16T13:11:27.726479,in transit
+ee34a5d2-aa42-40fb-9648-dbb47927cf31,"Oklahoma City, OK",2025-04-28T09:11:27.726554,out for delivery
+ee34a5d2-aa42-40fb-9648-dbb47927cf31,"Oklahoma City, OK",2025-04-28T21:11:27.726554,arrived at hub
+ee34a5d2-aa42-40fb-9648-dbb47927cf31,"Oklahoma City, OK",2025-04-27T14:11:27.726554,delayed
+2eac68e5-7c75-4fac-b027-be0463c54abc,"Denver, CO",2025-04-22T13:11:27.726629,delivered
+2eac68e5-7c75-4fac-b027-be0463c54abc,"Salt Lake City, UT",2025-04-23T16:11:27.726629,out for delivery
+2eac68e5-7c75-4fac-b027-be0463c54abc,"Las Vegas, NV",2025-04-24T06:11:27.726629,in transit
+0b9f24f4-3686-438e-a019-9575b9b89040,"Denver, CO",2025-05-01T01:11:27.726702,arrived at hub
+0b9f24f4-3686-438e-a019-9575b9b89040,"Las Vegas, NV",2025-05-03T02:11:27.726702,arrived at hub
+0b9f24f4-3686-438e-a019-9575b9b89040,"Las Vegas, NV",2025-04-30T13:11:27.726702,out for delivery
+a81bc5d7-f74e-42cf-963b-2b3e60b9ac4d,"Salt Lake City, UT",2025-04-07T22:11:27.726789,delayed
+a81bc5d7-f74e-42cf-963b-2b3e60b9ac4d,"Las Vegas, NV",2025-04-07T07:11:27.726789,delivered
+13ff78e5-c119-496e-bce0-f6fa5e9cfa62,"Oklahoma City, OK",2025-04-08T22:11:27.726861,delayed
+13ff78e5-c119-496e-bce0-f6fa5e9cfa62,"Phoenix, AZ",2025-04-08T19:11:27.726861,in transit
+75585cf9-4b4b-4795-ae67-8ef673f7d58b,"Denver, CO",2025-04-29T04:11:27.726952,out for delivery
+75585cf9-4b4b-4795-ae67-8ef673f7d58b,"Oklahoma City, OK",2025-04-30T05:11:27.726952,delayed
+75585cf9-4b4b-4795-ae67-8ef673f7d58b,"Oklahoma City, OK",2025-04-28T04:11:27.726952,delayed
+48b0244a-b1b9-4d69-86a3-29df08eb5c56,"Denver, CO",2025-04-23T17:11:27.727050,arrived at hub
+48b0244a-b1b9-4d69-86a3-29df08eb5c56,"Denver, CO",2025-04-25T02:11:27.727050,out for delivery
+48b0244a-b1b9-4d69-86a3-29df08eb5c56,"Tucson, AZ",2025-04-24T12:11:27.727050,delivered
+cfbc8088-9fdf-4411-a5ab-4a5a28d0c12f,"Salt Lake City, UT",2025-04-07T09:11:27.727130,arrived at hub
+cfbc8088-9fdf-4411-a5ab-4a5a28d0c12f,"Oklahoma City, OK",2025-04-05T20:11:27.727130,delivered
+cfbc8088-9fdf-4411-a5ab-4a5a28d0c12f,"El Paso, TX",2025-04-04T23:11:27.727130,out for delivery
+31b3aae6-c214-4942-b652-4091ceac9ffc,"El Paso, TX",2025-04-05T22:11:27.727250,in transit
+31b3aae6-c214-4942-b652-4091ceac9ffc,"Salt Lake City, UT",2025-04-05T20:11:27.727250,delivered
+31b3aae6-c214-4942-b652-4091ceac9ffc,"Denver, CO",2025-04-08T05:11:27.727250,delivered
+591f6705-fccb-4fd6-9381-fa7e41ea117f,"Las Vegas, NV",2025-04-08T10:11:27.727347,delivered
+591f6705-fccb-4fd6-9381-fa7e41ea117f,"Phoenix, AZ",2025-04-09T21:11:27.727347,arrived at hub
+8c5696c7-eb4b-43c3-b79d-bb1a82a64bc8,"El Paso, TX",2025-04-11T00:11:27.727447,out for delivery
+8c5696c7-eb4b-43c3-b79d-bb1a82a64bc8,"Tucson, AZ",2025-04-10T20:11:27.727447,arrived at hub
+8c5696c7-eb4b-43c3-b79d-bb1a82a64bc8,"Tucson, AZ",2025-04-13T06:11:27.727447,out for delivery
+77ef56f3-d695-4a3c-a7ad-87b2d9d41d4f,"Oklahoma City, OK",2025-04-12T00:11:27.727537,delayed
+77ef56f3-d695-4a3c-a7ad-87b2d9d41d4f,"Tucson, AZ",2025-04-09T15:11:27.727537,delayed
+ee58e8d5-4d4e-44d5-8108-185254d801fc,"El Paso, TX",2025-04-09T16:11:27.727625,in transit
+ee58e8d5-4d4e-44d5-8108-185254d801fc,"Tucson, AZ",2025-04-08T18:11:27.727625,delayed
+5bb5cee3-c0a6-4bb0-9506-df78bd0d7f58,"Phoenix, AZ",2025-04-15T20:11:27.727701,out for delivery
+5bb5cee3-c0a6-4bb0-9506-df78bd0d7f58,"Las Vegas, NV",2025-04-15T17:11:27.727701,out for delivery
+33c0cb8a-31a9-4bb5-b39e-ff846fc8e820,"Salt Lake City, UT",2025-04-26T06:11:27.727800,out for delivery
+33c0cb8a-31a9-4bb5-b39e-ff846fc8e820,"Tucson, AZ",2025-04-27T12:11:27.727800,out for delivery
+e426cc90-26f2-40b5-995e-16177754d0a2,"Phoenix, AZ",2025-05-01T13:11:27.727899,delivered
+e426cc90-26f2-40b5-995e-16177754d0a2,"Oklahoma City, OK",2025-04-30T06:11:27.727899,delayed
+e426cc90-26f2-40b5-995e-16177754d0a2,"Denver, CO",2025-04-30T04:11:27.727899,delivered
+5306a9bc-cbee-4e48-9e80-10495ff78c22,"Denver, CO",2025-04-21T08:11:27.727986,arrived at hub
+5306a9bc-cbee-4e48-9e80-10495ff78c22,"Salt Lake City, UT",2025-04-18T13:11:27.727986,in transit
+5306a9bc-cbee-4e48-9e80-10495ff78c22,"Tucson, AZ",2025-04-20T03:11:27.727986,delivered
+b156ad7f-ef6b-4fc1-8c7a-fb4e38304786,"Tucson, AZ",2025-05-04T09:11:27.728073,arrived at hub
+b156ad7f-ef6b-4fc1-8c7a-fb4e38304786,"Tucson, AZ",2025-05-02T20:11:27.728073,delayed
+b156ad7f-ef6b-4fc1-8c7a-fb4e38304786,"Las Vegas, NV",2025-05-02T08:11:27.728073,arrived at hub
+b5a4506e-fcbb-49b7-8a4d-54a4f75a901d,"Salt Lake City, UT",2025-04-16T17:11:27.728161,out for delivery
+b5a4506e-fcbb-49b7-8a4d-54a4f75a901d,"Denver, CO",2025-04-16T15:11:27.728161,arrived at hub
+0d34a027-6af8-47b3-aeb2-6798827a4789,"El Paso, TX",2025-04-11T01:11:27.728259,in transit
+0d34a027-6af8-47b3-aeb2-6798827a4789,"El Paso, TX",2025-04-12T22:11:27.728259,in transit
+19c9de70-8023-4b88-a8f9-741f50fceae5,"Tucson, AZ",2025-04-10T18:11:27.728335,out for delivery
+19c9de70-8023-4b88-a8f9-741f50fceae5,"El Paso, TX",2025-04-11T18:11:27.728335,arrived at hub
+584d031f-94c6-4284-a41c-dcccdbabcce5,"El Paso, TX",2025-04-13T06:11:27.728409,delayed
+584d031f-94c6-4284-a41c-dcccdbabcce5,"Salt Lake City, UT",2025-04-13T18:11:27.728409,delivered
+9c9a66f5-5a0e-4d6b-977a-20c812fc0f7e,"Denver, CO",2025-04-13T06:11:27.728499,delayed
+9c9a66f5-5a0e-4d6b-977a-20c812fc0f7e,"Oklahoma City, OK",2025-04-12T07:11:27.728499,delivered
+9c9a66f5-5a0e-4d6b-977a-20c812fc0f7e,"Tucson, AZ",2025-04-12T17:11:27.728499,delayed
+65bad585-8050-4e0b-92f0-5dbec18e8137,"El Paso, TX",2025-05-04T20:11:27.728576,delivered
+65bad585-8050-4e0b-92f0-5dbec18e8137,"Oklahoma City, OK",2025-05-05T11:11:27.728576,out for delivery
+65bad585-8050-4e0b-92f0-5dbec18e8137,"Phoenix, AZ",2025-05-07T04:11:27.728576,delayed
+b3904722-07a8-4bc3-b42e-237e7dc0b610,"Las Vegas, NV",2025-04-14T08:11:27.728663,out for delivery
+b3904722-07a8-4bc3-b42e-237e7dc0b610,"Denver, CO",2025-04-13T17:11:27.728663,delayed
+b3904722-07a8-4bc3-b42e-237e7dc0b610,"Denver, CO",2025-04-13T13:11:27.728663,delivered
+fa9e3813-a173-453c-9c89-5b9c60fb64d1,"Salt Lake City, UT",2025-04-25T19:11:27.728739,arrived at hub
+fa9e3813-a173-453c-9c89-5b9c60fb64d1,"Salt Lake City, UT",2025-04-26T03:11:27.728739,arrived at hub
+fa9e3813-a173-453c-9c89-5b9c60fb64d1,"Phoenix, AZ",2025-04-27T00:11:27.728739,delivered
+76dd28de-190b-41ca-a154-313ccd7bc4e2,"El Paso, TX",2025-05-04T18:11:27.728814,delivered
+76dd28de-190b-41ca-a154-313ccd7bc4e2,"Tucson, AZ",2025-05-03T06:11:27.728814,arrived at hub
+76dd28de-190b-41ca-a154-313ccd7bc4e2,"Denver, CO",2025-05-03T21:11:27.728814,delayed
+ae2bd9f3-f3e6-48cd-98d6-b4b21a407197,"Salt Lake City, UT",2025-04-24T22:11:27.728888,delayed
+ae2bd9f3-f3e6-48cd-98d6-b4b21a407197,"El Paso, TX",2025-04-23T00:11:27.728888,arrived at hub
+102f618e-41f0-4c13-a205-0c73acf90f2f,"Tucson, AZ",2025-04-30T23:11:27.728985,delivered
+102f618e-41f0-4c13-a205-0c73acf90f2f,"Salt Lake City, UT",2025-04-29T18:11:27.728985,in transit
+7571a0e9-23c3-40fa-8dd7-6b39b7fd8d1c,"Tucson, AZ",2025-04-16T16:11:27.729067,arrived at hub
+7571a0e9-23c3-40fa-8dd7-6b39b7fd8d1c,"Las Vegas, NV",2025-04-17T07:11:27.729067,in transit
+1c4b120b-8221-475d-ba24-e08dc3d17c66,"Oklahoma City, OK",2025-04-24T13:11:27.729143,in transit
+1c4b120b-8221-475d-ba24-e08dc3d17c66,"Denver, CO",2025-04-26T02:11:27.729143,delivered
+4593988d-df13-46a5-9d3f-2188bc76fff6,"Denver, CO",2025-04-27T15:11:27.729231,delivered
+4593988d-df13-46a5-9d3f-2188bc76fff6,"Salt Lake City, UT",2025-04-27T06:11:27.729231,delayed
+82108df0-4c19-4652-9b4c-a134a92a2c93,"El Paso, TX",2025-04-12T00:11:27.729307,delayed
+82108df0-4c19-4652-9b4c-a134a92a2c93,"Las Vegas, NV",2025-04-11T04:11:27.729307,delayed
+82108df0-4c19-4652-9b4c-a134a92a2c93,"Tucson, AZ",2025-04-12T06:11:27.729307,out for delivery
+a3f42a0f-4a1b-41ff-8562-79340de6688f,"Salt Lake City, UT",2025-04-09T01:11:27.729379,delayed
+a3f42a0f-4a1b-41ff-8562-79340de6688f,"Las Vegas, NV",2025-04-07T15:11:27.729379,delayed
+baa64cad-fb81-4586-81ab-f3e540715cf4,"El Paso, TX",2025-04-18T18:11:27.729452,arrived at hub
+baa64cad-fb81-4586-81ab-f3e540715cf4,"Phoenix, AZ",2025-04-19T07:11:27.729452,delayed
+baa64cad-fb81-4586-81ab-f3e540715cf4,"Las Vegas, NV",2025-04-20T18:11:27.729452,arrived at hub
+723ea9c5-0fbb-4cbe-a8f0-3ef63ea84d96,"Denver, CO",2025-05-03T07:11:27.729526,out for delivery
+723ea9c5-0fbb-4cbe-a8f0-3ef63ea84d96,"Tucson, AZ",2025-05-02T20:11:27.729526,delivered
+44f8b53b-b763-46da-a90a-95ce0623e5e1,"Salt Lake City, UT",2025-04-13T21:11:27.729599,out for delivery
+44f8b53b-b763-46da-a90a-95ce0623e5e1,"Tucson, AZ",2025-04-15T03:11:27.729599,arrived at hub
+44f8b53b-b763-46da-a90a-95ce0623e5e1,"Denver, CO",2025-04-14T10:11:27.729599,arrived at hub
+2100fbef-3089-49f2-8aff-cc22552b4917,"El Paso, TX",2025-04-16T12:11:27.729684,in transit
+2100fbef-3089-49f2-8aff-cc22552b4917,"Phoenix, AZ",2025-04-18T08:11:27.729684,in transit
+2100fbef-3089-49f2-8aff-cc22552b4917,"Salt Lake City, UT",2025-04-15T19:11:27.729684,in transit
+a11ea0d5-20eb-4ab8-9e6f-241b0b1ecaee,"Salt Lake City, UT",2025-04-08T06:11:27.729757,arrived at hub
+a11ea0d5-20eb-4ab8-9e6f-241b0b1ecaee,"Oklahoma City, OK",2025-04-07T21:11:27.729757,arrived at hub
+a11ea0d5-20eb-4ab8-9e6f-241b0b1ecaee,"Denver, CO",2025-04-07T14:11:27.729757,delivered
+5c759f7b-6fd3-4128-998c-5f2de7abf5f2,"Phoenix, AZ",2025-04-22T12:11:27.729831,delivered
+5c759f7b-6fd3-4128-998c-5f2de7abf5f2,"Oklahoma City, OK",2025-04-23T02:11:27.729831,out for delivery
+5c759f7b-6fd3-4128-998c-5f2de7abf5f2,"Phoenix, AZ",2025-04-20T15:11:27.729831,delivered
+8398ac66-4dc2-40dd-8780-77a457110e06,"Phoenix, AZ",2025-04-19T14:11:27.729919,delivered
+8398ac66-4dc2-40dd-8780-77a457110e06,"El Paso, TX",2025-04-21T00:11:27.729919,delayed
+8398ac66-4dc2-40dd-8780-77a457110e06,"El Paso, TX",2025-04-19T15:11:27.729919,out for delivery
+4336e82e-1381-4d7d-8751-2f36198878f4,"Phoenix, AZ",2025-04-25T02:11:27.729992,delivered
+4336e82e-1381-4d7d-8751-2f36198878f4,"Denver, CO",2025-04-25T08:11:27.729992,arrived at hub
+0d2c211e-1a9c-4830-8100-6eba8d6627a1,"Las Vegas, NV",2025-04-24T10:11:27.730078,out for delivery
+0d2c211e-1a9c-4830-8100-6eba8d6627a1,"Las Vegas, NV",2025-04-22T23:11:27.730078,out for delivery
+0d2c211e-1a9c-4830-8100-6eba8d6627a1,"El Paso, TX",2025-04-24T23:11:27.730078,arrived at hub
+a3403517-3ffa-4f81-b874-f165df0e7e73,"Oklahoma City, OK",2025-05-03T03:11:27.730153,in transit
+a3403517-3ffa-4f81-b874-f165df0e7e73,"Phoenix, AZ",2025-05-01T17:11:27.730153,out for delivery
+fd014604-6782-43f3-91da-ae8b89863823,"El Paso, TX",2025-04-09T13:11:27.730229,out for delivery
+fd014604-6782-43f3-91da-ae8b89863823,"Oklahoma City, OK",2025-04-07T20:11:27.730229,in transit
+fd014604-6782-43f3-91da-ae8b89863823,"Phoenix, AZ",2025-04-08T10:11:27.730229,out for delivery
+34d18ecf-ac3c-4d4e-ada0-9756a94db116,"El Paso, TX",2025-04-20T07:11:27.730348,in transit
+34d18ecf-ac3c-4d4e-ada0-9756a94db116,"Phoenix, AZ",2025-04-21T08:11:27.730348,arrived at hub
+34d18ecf-ac3c-4d4e-ada0-9756a94db116,"Salt Lake City, UT",2025-04-19T16:11:27.730348,delivered
+796cce17-b50e-4847-ac8e-adac994afc91,"Phoenix, AZ",2025-04-10T23:11:27.730937,in transit
+796cce17-b50e-4847-ac8e-adac994afc91,"El Paso, TX",2025-04-11T00:11:27.730937,delivered
+796cce17-b50e-4847-ac8e-adac994afc91,"Denver, CO",2025-04-09T17:11:27.730937,delayed
+6a4853f3-0475-4928-bbcd-3aa8dd8f7f59,"El Paso, TX",2025-04-28T15:11:27.731042,arrived at hub
+6a4853f3-0475-4928-bbcd-3aa8dd8f7f59,"Phoenix, AZ",2025-04-29T15:11:27.731042,delayed
+a79a180d-641f-4eab-8e86-1419a7e96479,"El Paso, TX",2025-04-22T19:11:27.731118,out for delivery
+a79a180d-641f-4eab-8e86-1419a7e96479,"Tucson, AZ",2025-04-23T07:11:27.731118,arrived at hub
+166fe98c-ed43-4659-9c7c-cf2310daffe4,"Oklahoma City, OK",2025-04-21T05:11:27.731196,delayed
+166fe98c-ed43-4659-9c7c-cf2310daffe4,"Phoenix, AZ",2025-04-18T19:11:27.731196,out for delivery
+2632c3d3-0956-44f1-afbd-a7251dcb89e1,"Las Vegas, NV",2025-04-07T22:11:27.731356,delivered
+2632c3d3-0956-44f1-afbd-a7251dcb89e1,"Salt Lake City, UT",2025-04-09T15:11:27.731356,delayed
+0bf5b543-c566-4f2a-8207-52fc3adced85,"Salt Lake City, UT",2025-04-05T23:11:27.731439,out for delivery
+0bf5b543-c566-4f2a-8207-52fc3adced85,"Denver, CO",2025-04-07T03:11:27.731439,delayed
+d6296f00-a2f7-4919-9e75-34588920600c,"Denver, CO",2025-04-07T20:11:27.731521,delivered
+d6296f00-a2f7-4919-9e75-34588920600c,"Phoenix, AZ",2025-04-07T13:11:27.731521,delivered
+d6296f00-a2f7-4919-9e75-34588920600c,"Salt Lake City, UT",2025-04-07T02:11:27.731521,arrived at hub
+d49f630e-d790-449c-b439-338506d8d0d3,"Las Vegas, NV",2025-04-09T23:11:27.731657,arrived at hub
+d49f630e-d790-449c-b439-338506d8d0d3,"Oklahoma City, OK",2025-04-11T13:11:27.731657,arrived at hub
+618f6943-3c2b-4584-a2a2-59826c699ed2,"Las Vegas, NV",2025-04-30T05:11:27.731736,in transit
+618f6943-3c2b-4584-a2a2-59826c699ed2,"Phoenix, AZ",2025-04-29T00:11:27.731736,delayed
+618f6943-3c2b-4584-a2a2-59826c699ed2,"Las Vegas, NV",2025-04-30T21:11:27.731736,delayed
+f2b446f4-ce48-45b8-8a13-f69a2f614c85,"Phoenix, AZ",2025-05-02T05:11:27.731824,arrived at hub
+f2b446f4-ce48-45b8-8a13-f69a2f614c85,"Tucson, AZ",2025-05-03T20:11:27.731824,delivered
+87dc5c59-2009-4eb2-8ead-c1b214eeab7c,"Phoenix, AZ",2025-04-12T02:11:27.731913,in transit
+87dc5c59-2009-4eb2-8ead-c1b214eeab7c,"El Paso, TX",2025-04-13T10:11:27.731913,in transit
+87dc5c59-2009-4eb2-8ead-c1b214eeab7c,"Salt Lake City, UT",2025-04-13T06:11:27.731913,out for delivery
+c4c002a7-37a7-4714-84e8-3c1f85bfb6a4,"Tucson, AZ",2025-05-01T02:11:27.732003,out for delivery
+c4c002a7-37a7-4714-84e8-3c1f85bfb6a4,"Oklahoma City, OK",2025-04-29T23:11:27.732003,delivered
+cfb29ea9-f05d-4d55-874f-2348b6964dcd,"Denver, CO",2025-05-03T07:11:27.732077,out for delivery
+cfb29ea9-f05d-4d55-874f-2348b6964dcd,"Denver, CO",2025-05-01T10:11:27.732077,delayed
+db0beded-f01a-4913-8c79-a9a5eec30484,"Tucson, AZ",2025-04-07T23:11:27.732163,arrived at hub
+db0beded-f01a-4913-8c79-a9a5eec30484,"Denver, CO",2025-04-06T21:11:27.732163,out for delivery
+db0beded-f01a-4913-8c79-a9a5eec30484,"Tucson, AZ",2025-04-08T00:11:27.732163,delayed
+55045d74-b967-4685-9b4d-1838c0d61e10,"Las Vegas, NV",2025-04-28T22:11:27.732236,delayed
+55045d74-b967-4685-9b4d-1838c0d61e10,"Oklahoma City, OK",2025-04-29T20:11:27.732236,out for delivery
+55045d74-b967-4685-9b4d-1838c0d61e10,"Tucson, AZ",2025-04-29T14:11:27.732236,in transit
+b61b9f02-bc37-4004-9c15-4737cf0a84ac,"Phoenix, AZ",2025-04-20T03:11:27.732310,out for delivery
+b61b9f02-bc37-4004-9c15-4737cf0a84ac,"Salt Lake City, UT",2025-04-20T07:11:27.732310,delivered
+8295e689-543a-4029-a272-f9777beb1ca6,"Tucson, AZ",2025-05-05T07:11:27.732381,delayed
+8295e689-543a-4029-a272-f9777beb1ca6,"Salt Lake City, UT",2025-05-05T20:11:27.732381,delivered
+8295e689-543a-4029-a272-f9777beb1ca6,"Las Vegas, NV",2025-05-04T06:11:27.732381,delayed
+39ffd05c-df47-40bc-bf09-bc394808c3e6,"Las Vegas, NV",2025-04-22T02:11:27.732466,arrived at hub
+39ffd05c-df47-40bc-bf09-bc394808c3e6,"Las Vegas, NV",2025-04-21T15:11:27.732466,delayed
+e259c91d-63b0-458d-a446-9619e8fdfda0,"Las Vegas, NV",2025-05-01T20:11:27.732657,out for delivery
+e259c91d-63b0-458d-a446-9619e8fdfda0,"Salt Lake City, UT",2025-05-02T00:11:27.732657,out for delivery
+e259c91d-63b0-458d-a446-9619e8fdfda0,"Phoenix, AZ",2025-05-02T11:11:27.732657,delivered
+a5da22a4-34a1-4a17-a5b6-03e44d7ecb90,"Oklahoma City, OK",2025-04-19T12:11:27.732795,delivered
+a5da22a4-34a1-4a17-a5b6-03e44d7ecb90,"Oklahoma City, OK",2025-04-18T16:11:27.732795,out for delivery
+333e2f37-7a6f-42be-afba-e51f757248a9,"Salt Lake City, UT",2025-04-10T21:11:27.732884,delayed
+333e2f37-7a6f-42be-afba-e51f757248a9,"Salt Lake City, UT",2025-04-08T21:11:27.732884,out for delivery
+c5ed669c-22b1-4eea-8e4a-517881cb3b0c,"Oklahoma City, OK",2025-04-16T06:11:27.732970,delayed
+c5ed669c-22b1-4eea-8e4a-517881cb3b0c,"Las Vegas, NV",2025-04-16T19:11:27.732970,arrived at hub
+c5ed669c-22b1-4eea-8e4a-517881cb3b0c,"Salt Lake City, UT",2025-04-17T19:11:27.732970,out for delivery
+a03e7b77-31d4-43d9-9202-b89e79a7924c,"El Paso, TX",2025-04-06T22:11:27.733055,out for delivery
+a03e7b77-31d4-43d9-9202-b89e79a7924c,"El Paso, TX",2025-04-06T16:11:27.733055,delivered
+1e29e955-61f3-4668-a23e-5281ea64f377,"Salt Lake City, UT",2025-04-09T17:11:27.733132,delayed
+1e29e955-61f3-4668-a23e-5281ea64f377,"El Paso, TX",2025-04-12T09:11:27.733132,in transit
+1e29e955-61f3-4668-a23e-5281ea64f377,"Salt Lake City, UT",2025-04-10T02:11:27.733132,arrived at hub
+b037f149-2166-4530-863c-6cf982a708b1,"Oklahoma City, OK",2025-04-12T10:11:27.733203,delivered
+b037f149-2166-4530-863c-6cf982a708b1,"El Paso, TX",2025-04-11T18:11:27.733203,out for delivery
+b037f149-2166-4530-863c-6cf982a708b1,"Salt Lake City, UT",2025-04-13T07:11:27.733203,out for delivery
+962e31c8-0159-440b-9cb8-587bc6eb9f0f,"Phoenix, AZ",2025-04-19T14:11:27.733286,delayed
+962e31c8-0159-440b-9cb8-587bc6eb9f0f,"El Paso, TX",2025-04-20T17:11:27.733286,delivered
+73f2aee2-e889-4fe2-bff8-86c0fce0db84,"Las Vegas, NV",2025-04-17T22:11:27.733358,out for delivery
+73f2aee2-e889-4fe2-bff8-86c0fce0db84,"Salt Lake City, UT",2025-04-18T00:11:27.733358,delivered
+3313c4f8-c971-47cf-9c99-533ee39c62dd,"Phoenix, AZ",2025-04-17T09:11:27.733451,out for delivery
+3313c4f8-c971-47cf-9c99-533ee39c62dd,"Las Vegas, NV",2025-04-16T02:11:27.733451,out for delivery
+3e288099-a9f6-48fb-b701-12b4fb638654,"Salt Lake City, UT",2025-04-10T03:11:27.733543,arrived at hub
+3e288099-a9f6-48fb-b701-12b4fb638654,"Las Vegas, NV",2025-04-11T09:11:27.733543,delayed
+434b0b4c-0c6b-4e11-88eb-c1d3462b9c6a,"El Paso, TX",2025-04-10T15:11:27.733615,out for delivery
+434b0b4c-0c6b-4e11-88eb-c1d3462b9c6a,"Tucson, AZ",2025-04-11T09:11:27.733615,in transit
+434b0b4c-0c6b-4e11-88eb-c1d3462b9c6a,"Oklahoma City, OK",2025-04-11T21:11:27.733615,out for delivery
+58f7b554-ef20-40fa-956c-db853007866a,"Las Vegas, NV",2025-04-10T21:11:27.733715,in transit
+58f7b554-ef20-40fa-956c-db853007866a,"Phoenix, AZ",2025-04-11T03:11:27.733715,delayed
+58f7b554-ef20-40fa-956c-db853007866a,"Oklahoma City, OK",2025-04-11T02:11:27.733715,arrived at hub
+c65a5185-9f75-480f-ae3b-83de850af18e,"Denver, CO",2025-04-10T07:11:27.733805,delivered
+c65a5185-9f75-480f-ae3b-83de850af18e,"Las Vegas, NV",2025-04-08T09:11:27.733805,delivered
+41e40907-fa9b-470a-9657-9acaee3368db,"Denver, CO",2025-04-17T00:11:27.733888,out for delivery
+41e40907-fa9b-470a-9657-9acaee3368db,"Denver, CO",2025-04-15T12:11:27.733888,out for delivery
+41e40907-fa9b-470a-9657-9acaee3368db,"Phoenix, AZ",2025-04-16T15:11:27.733888,delivered
+1cc8f2a0-80f3-41ed-8b52-104da0dac824,"El Paso, TX",2025-04-15T22:11:27.733963,out for delivery
+1cc8f2a0-80f3-41ed-8b52-104da0dac824,"Phoenix, AZ",2025-04-15T14:11:27.733963,arrived at hub
+ac4bb49e-7af7-4774-b9c1-fdf91bbc7ab4,"Salt Lake City, UT",2025-05-01T00:11:27.734047,in transit
+ac4bb49e-7af7-4774-b9c1-fdf91bbc7ab4,"Salt Lake City, UT",2025-04-30T02:11:27.734047,delivered
+3a4e5ef4-b7db-4590-9f9a-9792a725eb3a,"Las Vegas, NV",2025-04-20T11:11:27.734120,arrived at hub
+3a4e5ef4-b7db-4590-9f9a-9792a725eb3a,"Phoenix, AZ",2025-04-20T23:11:27.734120,delayed
+1a1f4d82-0e93-47ea-b63d-2448d161eb6d,"Oklahoma City, OK",2025-04-14T08:11:27.734201,delayed
+1a1f4d82-0e93-47ea-b63d-2448d161eb6d,"El Paso, TX",2025-04-13T14:11:27.734201,out for delivery
+1a1f4d82-0e93-47ea-b63d-2448d161eb6d,"Las Vegas, NV",2025-04-12T03:11:27.734201,delayed
+bfcc1311-f716-417e-bea9-05368eb68ddd,"Salt Lake City, UT",2025-04-22T11:11:27.734276,delayed
+bfcc1311-f716-417e-bea9-05368eb68ddd,"Oklahoma City, OK",2025-04-21T23:11:27.734276,arrived at hub
+bfcc1311-f716-417e-bea9-05368eb68ddd,"Phoenix, AZ",2025-04-23T05:11:27.734276,arrived at hub
+99d64d9f-ddb8-41fb-869e-63086fc44745,"Denver, CO",2025-04-13T03:11:27.734365,delayed
+99d64d9f-ddb8-41fb-869e-63086fc44745,"El Paso, TX",2025-04-13T07:11:27.734365,out for delivery
+99d64d9f-ddb8-41fb-869e-63086fc44745,"El Paso, TX",2025-04-14T18:11:27.734365,arrived at hub
+670c5fb1-e197-4a8a-b950-b0162767caa9,"Denver, CO",2025-05-02T19:11:27.734437,out for delivery
+670c5fb1-e197-4a8a-b950-b0162767caa9,"Oklahoma City, OK",2025-05-03T09:11:27.734437,arrived at hub
+670c5fb1-e197-4a8a-b950-b0162767caa9,"Tucson, AZ",2025-05-01T10:11:27.734437,delayed
+da617784-b623-4fe1-9745-59a52b7212ff,"Las Vegas, NV",2025-04-05T12:11:27.734508,out for delivery
+da617784-b623-4fe1-9745-59a52b7212ff,"Salt Lake City, UT",2025-04-04T19:11:27.734508,delayed
+5f117a21-c8ec-4bb4-a977-688b50240935,"Denver, CO",2025-04-27T03:11:27.734590,arrived at hub
+5f117a21-c8ec-4bb4-a977-688b50240935,"El Paso, TX",2025-04-26T14:11:27.734590,delivered
+44cda6a1-11bf-4470-b9ce-4ac35555e7fc,"Oklahoma City, OK",2025-04-23T17:11:27.734661,out for delivery
+44cda6a1-11bf-4470-b9ce-4ac35555e7fc,"Oklahoma City, OK",2025-04-23T18:11:27.734661,out for delivery
+44cda6a1-11bf-4470-b9ce-4ac35555e7fc,"Denver, CO",2025-04-24T03:11:27.734661,in transit
+e869f85a-4d65-4f9d-91e5-a2131def4b6c,"Las Vegas, NV",2025-04-10T17:11:27.734806,in transit
+e869f85a-4d65-4f9d-91e5-a2131def4b6c,"Denver, CO",2025-04-11T00:11:27.734806,delivered
+91de0af3-73d4-4d48-b676-a4b971745dc8,"Salt Lake City, UT",2025-04-30T10:11:27.734891,out for delivery
+91de0af3-73d4-4d48-b676-a4b971745dc8,"El Paso, TX",2025-05-02T04:11:27.734891,delivered
+91de0af3-73d4-4d48-b676-a4b971745dc8,"El Paso, TX",2025-04-30T03:11:27.734891,in transit
+a261ee55-4d51-41d5-a045-74988b41c257,"El Paso, TX",2025-04-27T11:11:27.734983,in transit
+a261ee55-4d51-41d5-a045-74988b41c257,"El Paso, TX",2025-04-27T21:11:27.734983,arrived at hub
+a261ee55-4d51-41d5-a045-74988b41c257,"Phoenix, AZ",2025-04-27T19:11:27.734983,arrived at hub
+53550435-1b03-4dd7-bc37-34f515d70323,"Tucson, AZ",2025-04-26T17:11:27.735060,delayed
+53550435-1b03-4dd7-bc37-34f515d70323,"Salt Lake City, UT",2025-04-28T09:11:27.735060,in transit
+53550435-1b03-4dd7-bc37-34f515d70323,"Salt Lake City, UT",2025-04-28T21:11:27.735060,in transit
+8666123a-e1bc-44ab-ac77-82e12e33554d,"Salt Lake City, UT",2025-04-09T15:11:27.735135,delivered
+8666123a-e1bc-44ab-ac77-82e12e33554d,"Salt Lake City, UT",2025-04-10T09:11:27.735135,delivered
+fc692cd0-57d1-4dfc-aa27-58700952c91e,"El Paso, TX",2025-04-21T10:11:27.735222,arrived at hub
+fc692cd0-57d1-4dfc-aa27-58700952c91e,"Salt Lake City, UT",2025-04-21T15:11:27.735222,arrived at hub
+fc692cd0-57d1-4dfc-aa27-58700952c91e,"El Paso, TX",2025-04-20T20:11:27.735222,delayed
+d7ad60fc-14b4-42b1-aaa8-b83e48ce887a,"Denver, CO",2025-04-15T09:11:27.735308,delayed
+d7ad60fc-14b4-42b1-aaa8-b83e48ce887a,"Las Vegas, NV",2025-04-14T02:11:27.735308,delivered
+d7ad60fc-14b4-42b1-aaa8-b83e48ce887a,"Salt Lake City, UT",2025-04-13T23:11:27.735308,delivered
+6b5ead4b-e1d6-49d9-b6ae-6016d84bcfb9,"Salt Lake City, UT",2025-04-30T06:11:27.735393,out for delivery
+6b5ead4b-e1d6-49d9-b6ae-6016d84bcfb9,"Las Vegas, NV",2025-04-29T20:11:27.735393,arrived at hub
+0669c1f4-c500-4dc4-b3e4-841bb8c29645,"Denver, CO",2025-04-06T20:11:27.735471,delayed
+0669c1f4-c500-4dc4-b3e4-841bb8c29645,"Salt Lake City, UT",2025-04-06T20:11:27.735471,out for delivery
+1ac4c9ea-729b-486f-a7b5-aad6cbf04a99,"El Paso, TX",2025-05-03T07:11:27.735556,delayed
+1ac4c9ea-729b-486f-a7b5-aad6cbf04a99,"Tucson, AZ",2025-05-04T18:11:27.735556,out for delivery
+1ac4c9ea-729b-486f-a7b5-aad6cbf04a99,"Oklahoma City, OK",2025-05-02T22:11:27.735556,in transit
+b884d7d0-06cd-4b57-ae4c-14ab736c35f1,"Oklahoma City, OK",2025-04-10T06:11:27.735629,delayed
+b884d7d0-06cd-4b57-ae4c-14ab736c35f1,"Tucson, AZ",2025-04-09T12:11:27.735629,out for delivery
+b884d7d0-06cd-4b57-ae4c-14ab736c35f1,"El Paso, TX",2025-04-09T06:11:27.735629,in transit
+ceb77871-6e52-471c-8180-1d2c26da6ac1,"Oklahoma City, OK",2025-04-21T23:11:27.735714,delayed
+ceb77871-6e52-471c-8180-1d2c26da6ac1,"Salt Lake City, UT",2025-04-19T21:11:27.735714,delivered
+2b7671b3-dc88-4ad5-ae0f-788465046284,"Tucson, AZ",2025-04-13T16:11:27.735810,arrived at hub
+2b7671b3-dc88-4ad5-ae0f-788465046284,"Las Vegas, NV",2025-04-15T04:11:27.735810,delayed
+2b7671b3-dc88-4ad5-ae0f-788465046284,"Las Vegas, NV",2025-04-14T01:11:27.735810,delivered
+e3003234-fa84-48b0-b63e-8e30c5dd9d71,"Salt Lake City, UT",2025-04-18T03:11:27.735882,delayed
+e3003234-fa84-48b0-b63e-8e30c5dd9d71,"Phoenix, AZ",2025-04-15T19:11:27.735882,in transit
+35cb8107-08ed-442d-8468-dd920c6b6bac,"Phoenix, AZ",2025-04-29T15:11:27.735966,arrived at hub
+35cb8107-08ed-442d-8468-dd920c6b6bac,"Tucson, AZ",2025-05-01T21:11:27.735966,in transit
+35cb8107-08ed-442d-8468-dd920c6b6bac,"Denver, CO",2025-05-01T19:11:27.735966,arrived at hub
+3f730fe7-266b-450c-a439-1a4048dc3a9d,"Salt Lake City, UT",2025-04-20T09:11:27.736040,delayed
+3f730fe7-266b-450c-a439-1a4048dc3a9d,"Oklahoma City, OK",2025-04-20T00:11:27.736040,delayed
+3f730fe7-266b-450c-a439-1a4048dc3a9d,"Phoenix, AZ",2025-04-20T21:11:27.736040,delayed
+ac69e767-96f8-40eb-bcf8-b3eaa6c38b8c,"Tucson, AZ",2025-04-27T19:11:27.736117,delayed
+ac69e767-96f8-40eb-bcf8-b3eaa6c38b8c,"Tucson, AZ",2025-04-28T18:11:27.736117,in transit
+b65ea158-ef02-4762-8b76-d993faa7a47e,"Denver, CO",2025-04-27T13:11:27.736189,out for delivery
+b65ea158-ef02-4762-8b76-d993faa7a47e,"Denver, CO",2025-04-27T22:11:27.736189,delivered
+f2a0612c-2726-4e4e-a151-08a26c0e4a23,"Oklahoma City, OK",2025-04-27T07:11:27.736262,out for delivery
+f2a0612c-2726-4e4e-a151-08a26c0e4a23,"Phoenix, AZ",2025-04-24T14:11:27.736262,delayed
+cff74671-0668-4b48-9a9c-56b6c3c3b6f4,"Oklahoma City, OK",2025-04-22T19:11:27.736333,arrived at hub
+cff74671-0668-4b48-9a9c-56b6c3c3b6f4,"Phoenix, AZ",2025-04-23T02:11:27.736333,arrived at hub
+afeaee06-7a95-43cc-a066-9942b21148c3,"Oklahoma City, OK",2025-04-22T00:11:27.736406,in transit
+afeaee06-7a95-43cc-a066-9942b21148c3,"Las Vegas, NV",2025-04-22T02:11:27.736406,delayed
+afeaee06-7a95-43cc-a066-9942b21148c3,"Denver, CO",2025-04-23T03:11:27.736406,out for delivery
+30778908-b402-4567-9c07-40ae5d327237,"Phoenix, AZ",2025-04-30T07:11:27.736477,delivered
+30778908-b402-4567-9c07-40ae5d327237,"El Paso, TX",2025-04-29T14:11:27.736477,arrived at hub
+4a295bf8-76c9-4704-bf0b-0dbbf06822be,"Oklahoma City, OK",2025-04-12T09:11:27.736560,arrived at hub
+4a295bf8-76c9-4704-bf0b-0dbbf06822be,"Tucson, AZ",2025-04-11T08:11:27.736560,delivered
+4a295bf8-76c9-4704-bf0b-0dbbf06822be,"Salt Lake City, UT",2025-04-12T21:11:27.736560,arrived at hub
+d969082f-1eff-4ad3-94b7-1c4732a55379,"Denver, CO",2025-04-21T01:11:27.736661,in transit
+d969082f-1eff-4ad3-94b7-1c4732a55379,"Las Vegas, NV",2025-04-22T14:11:27.736661,out for delivery
+f0b90ea1-8aa8-4fc4-8268-bacdfafc60a4,"Denver, CO",2025-04-12T06:11:27.736758,delayed
+f0b90ea1-8aa8-4fc4-8268-bacdfafc60a4,"Denver, CO",2025-04-11T23:11:27.736758,delivered
+f0b90ea1-8aa8-4fc4-8268-bacdfafc60a4,"Salt Lake City, UT",2025-04-13T01:11:27.736758,in transit
+f3a23361-d0f4-42c4-b0bb-c33621b50f01,"El Paso, TX",2025-04-15T15:11:27.736837,delivered
+f3a23361-d0f4-42c4-b0bb-c33621b50f01,"Denver, CO",2025-04-17T06:11:27.736837,out for delivery
+f3a23361-d0f4-42c4-b0bb-c33621b50f01,"Oklahoma City, OK",2025-04-16T02:11:27.736837,in transit
+2bc69d13-5213-43ba-a276-8ed47d472ff2,"Tucson, AZ",2025-04-27T04:11:27.736910,in transit
+2bc69d13-5213-43ba-a276-8ed47d472ff2,"Tucson, AZ",2025-04-25T19:11:27.736910,delivered
+8c78ee4d-34c1-4d62-a4b5-bed058686267,"Phoenix, AZ",2025-04-25T08:11:27.737007,delayed
+8c78ee4d-34c1-4d62-a4b5-bed058686267,"Denver, CO",2025-04-24T05:11:27.737007,out for delivery
+72a20b29-32fb-4706-9e8a-484e87823865,"El Paso, TX",2025-04-20T11:11:27.737080,arrived at hub
+72a20b29-32fb-4706-9e8a-484e87823865,"Salt Lake City, UT",2025-04-21T01:11:27.737080,in transit
+72a20b29-32fb-4706-9e8a-484e87823865,"El Paso, TX",2025-04-18T15:11:27.737080,in transit
+ef3af714-880f-49cc-af92-f3a2d38d4de1,"Denver, CO",2025-05-01T22:11:27.737764,in transit
+ef3af714-880f-49cc-af92-f3a2d38d4de1,"Salt Lake City, UT",2025-04-30T20:11:27.737764,out for delivery
+ebebe811-ca88-43d2-bb66-5614bcbb046e,"Salt Lake City, UT",2025-04-13T05:11:27.737850,out for delivery
+ebebe811-ca88-43d2-bb66-5614bcbb046e,"Oklahoma City, OK",2025-04-12T19:11:27.737850,out for delivery
+ebebe811-ca88-43d2-bb66-5614bcbb046e,"Oklahoma City, OK",2025-04-10T23:11:27.737850,delivered
+465eb4b0-5da9-4be8-976b-fc1e273bc57f,"Phoenix, AZ",2025-04-24T00:11:27.738016,delayed
+465eb4b0-5da9-4be8-976b-fc1e273bc57f,"El Paso, TX",2025-04-22T23:11:27.738016,arrived at hub
+f659ee83-b850-461c-9126-8ee5ff74f9e5,"Las Vegas, NV",2025-04-25T09:11:27.738100,out for delivery
+f659ee83-b850-461c-9126-8ee5ff74f9e5,"Las Vegas, NV",2025-04-22T21:11:27.738100,out for delivery
+bcd576fd-7fa5-4c25-9804-7ed52df7cd32,"Denver, CO",2025-04-20T20:11:27.738176,in transit
+bcd576fd-7fa5-4c25-9804-7ed52df7cd32,"Phoenix, AZ",2025-04-22T20:11:27.738176,out for delivery
+3bdc35cd-2ed8-44f6-b267-a885205ffa36,"Oklahoma City, OK",2025-04-13T04:11:27.738263,arrived at hub
+3bdc35cd-2ed8-44f6-b267-a885205ffa36,"Phoenix, AZ",2025-04-12T04:11:27.738263,arrived at hub
+1bc54761-531e-436c-99ff-25acd2cf4bd0,"Tucson, AZ",2025-04-30T09:11:27.738340,delayed
+1bc54761-531e-436c-99ff-25acd2cf4bd0,"El Paso, TX",2025-05-02T07:11:27.738340,delayed
+0b114ec9-c2b2-4ff5-aaf3-5463a29f81b0,"Denver, CO",2025-04-18T12:11:27.738415,delayed
+0b114ec9-c2b2-4ff5-aaf3-5463a29f81b0,"Salt Lake City, UT",2025-04-17T04:11:27.738415,in transit
+8507cb3a-6ba9-475a-b2d3-bc04b83449aa,"Las Vegas, NV",2025-04-18T19:11:27.738487,delivered
+8507cb3a-6ba9-475a-b2d3-bc04b83449aa,"Las Vegas, NV",2025-04-16T21:11:27.738487,delivered
+8507cb3a-6ba9-475a-b2d3-bc04b83449aa,"Tucson, AZ",2025-04-16T22:11:27.738487,out for delivery
+4baba6e6-af98-45d1-9fdf-83f30077d41d,"Tucson, AZ",2025-05-04T20:11:27.738573,delivered
+4baba6e6-af98-45d1-9fdf-83f30077d41d,"Las Vegas, NV",2025-05-05T10:11:27.738573,arrived at hub
+4baba6e6-af98-45d1-9fdf-83f30077d41d,"Salt Lake City, UT",2025-05-05T21:11:27.738573,in transit
+1599177f-b8db-4938-91eb-33602b49fdd0,"Oklahoma City, OK",2025-04-21T18:11:27.738658,delivered
+1599177f-b8db-4938-91eb-33602b49fdd0,"Phoenix, AZ",2025-04-20T13:11:27.738658,in transit
+fbdbff08-5dcd-4426-b73f-238cc7fcb21a,"Tucson, AZ",2025-04-24T18:11:27.738753,delayed
+fbdbff08-5dcd-4426-b73f-238cc7fcb21a,"Denver, CO",2025-04-26T14:11:27.738753,arrived at hub
+5c6e2a32-1b21-4b38-84e8-df216a4d2703,"Denver, CO",2025-04-28T18:11:27.738858,delayed
+5c6e2a32-1b21-4b38-84e8-df216a4d2703,"Tucson, AZ",2025-04-27T20:11:27.738858,delayed
+294253d8-54ab-4ab0-8192-e9095c9d29e5,"El Paso, TX",2025-04-19T22:11:27.738943,delayed
+294253d8-54ab-4ab0-8192-e9095c9d29e5,"El Paso, TX",2025-04-20T04:11:27.738943,in transit
+294253d8-54ab-4ab0-8192-e9095c9d29e5,"Denver, CO",2025-04-20T11:11:27.738943,delivered
+e87991bb-3b17-472f-a693-183ead08e64e,"Phoenix, AZ",2025-05-05T16:11:27.739016,out for delivery
+e87991bb-3b17-472f-a693-183ead08e64e,"Salt Lake City, UT",2025-05-05T01:11:27.739016,delayed
+0ea0085f-9f54-4af6-bc63-cfd69a5a9534,"El Paso, TX",2025-04-27T00:11:27.739086,out for delivery
+0ea0085f-9f54-4af6-bc63-cfd69a5a9534,"Las Vegas, NV",2025-04-26T14:11:27.739086,arrived at hub
+0ea0085f-9f54-4af6-bc63-cfd69a5a9534,"El Paso, TX",2025-04-28T02:11:27.739086,delayed
+ea4fdb92-3082-4e66-8b6a-21477bc78c9a,"Las Vegas, NV",2025-04-21T00:11:27.739156,delivered
+ea4fdb92-3082-4e66-8b6a-21477bc78c9a,"Salt Lake City, UT",2025-04-21T04:11:27.739156,arrived at hub
+178972e8-f50f-4ecc-8415-39083578a12c,"Phoenix, AZ",2025-04-05T08:11:27.739239,out for delivery
+178972e8-f50f-4ecc-8415-39083578a12c,"Denver, CO",2025-04-04T16:11:27.739239,delivered
+e3b27a78-23f7-48f6-9cd2-df8fcf9de1b7,"Las Vegas, NV",2025-04-19T14:11:27.739308,in transit
+e3b27a78-23f7-48f6-9cd2-df8fcf9de1b7,"Salt Lake City, UT",2025-04-21T13:11:27.739308,delayed
+e3b27a78-23f7-48f6-9cd2-df8fcf9de1b7,"Denver, CO",2025-04-20T02:11:27.739308,delivered
+db263037-7e00-465c-b69b-6b5dd4eeaf14,"Tucson, AZ",2025-04-28T18:11:27.739402,in transit
+db263037-7e00-465c-b69b-6b5dd4eeaf14,"Oklahoma City, OK",2025-04-27T07:11:27.739402,delayed
+1ba78951-1489-41e1-8f6a-657cc1d46347,"Denver, CO",2025-04-16T18:11:27.739473,delivered
+1ba78951-1489-41e1-8f6a-657cc1d46347,"Oklahoma City, OK",2025-04-18T17:11:27.739473,delayed
+0bdb9802-e502-4dbc-8179-6d783d53a567,"El Paso, TX",2025-04-20T23:11:27.739564,in transit
+0bdb9802-e502-4dbc-8179-6d783d53a567,"Denver, CO",2025-04-23T05:11:27.739564,out for delivery
+0bdb9802-e502-4dbc-8179-6d783d53a567,"El Paso, TX",2025-04-20T22:11:27.739564,delivered
+697bf78f-f3e1-45d1-ae32-f86597cc3400,"Oklahoma City, OK",2025-04-24T20:11:27.739645,arrived at hub
+697bf78f-f3e1-45d1-ae32-f86597cc3400,"Las Vegas, NV",2025-04-23T19:11:27.739645,delayed
+0976e671-1875-408a-afaf-7c0b9c5ada23,"Oklahoma City, OK",2025-05-06T15:11:27.739714,delayed
+0976e671-1875-408a-afaf-7c0b9c5ada23,"Tucson, AZ",2025-05-06T05:11:27.739714,delayed
+0976e671-1875-408a-afaf-7c0b9c5ada23,"Phoenix, AZ",2025-05-05T18:11:27.739714,arrived at hub
+d76fa8b2-28fa-43e7-9e9d-490b7c4518c3,"Denver, CO",2025-04-09T02:11:27.739782,in transit
+d76fa8b2-28fa-43e7-9e9d-490b7c4518c3,"Tucson, AZ",2025-04-09T10:11:27.739782,out for delivery
+0cb8fe0f-e7e9-48ca-9b23-13c571a956d3,"Phoenix, AZ",2025-04-07T17:11:27.739851,delivered
+0cb8fe0f-e7e9-48ca-9b23-13c571a956d3,"Salt Lake City, UT",2025-04-07T10:11:27.739851,arrived at hub
+0cb8fe0f-e7e9-48ca-9b23-13c571a956d3,"Las Vegas, NV",2025-04-07T22:11:27.739851,out for delivery
+4d0409cc-1b36-44d3-9228-8dcfc3eb46f4,"Phoenix, AZ",2025-04-14T04:11:27.739934,arrived at hub
+4d0409cc-1b36-44d3-9228-8dcfc3eb46f4,"Salt Lake City, UT",2025-04-15T03:11:27.739934,delivered
+4d0409cc-1b36-44d3-9228-8dcfc3eb46f4,"Denver, CO",2025-04-13T18:11:27.739934,delayed
+57b675ce-3a7d-4e11-81cd-2b00dceacde6,"Oklahoma City, OK",2025-04-13T00:11:27.740006,arrived at hub
+57b675ce-3a7d-4e11-81cd-2b00dceacde6,"Tucson, AZ",2025-04-14T10:11:27.740006,delivered
+50b95d2e-b692-4f55-88eb-d0daad3be084,"Las Vegas, NV",2025-04-30T03:11:27.740086,arrived at hub
+50b95d2e-b692-4f55-88eb-d0daad3be084,"Tucson, AZ",2025-04-28T16:11:27.740086,out for delivery
+dc946dd1-39b1-4f91-bb53-ee7457f651eb,"Tucson, AZ",2025-04-25T01:11:27.740157,in transit
+dc946dd1-39b1-4f91-bb53-ee7457f651eb,"Phoenix, AZ",2025-04-25T06:11:27.740157,in transit
+9d1c252a-0d58-4915-8006-1c73fe73e1ff,"Denver, CO",2025-04-05T17:11:27.740228,arrived at hub
+9d1c252a-0d58-4915-8006-1c73fe73e1ff,"Las Vegas, NV",2025-04-06T16:11:27.740228,in transit
+c53915be-1b19-4a92-bc46-2d164cae4cd8,"Phoenix, AZ",2025-04-14T22:11:27.740299,in transit
+c53915be-1b19-4a92-bc46-2d164cae4cd8,"Oklahoma City, OK",2025-04-15T14:11:27.740299,out for delivery
+c53915be-1b19-4a92-bc46-2d164cae4cd8,"Phoenix, AZ",2025-04-15T05:11:27.740299,delayed
+b782d441-32df-4081-ad3c-7ddccde4002c,"Tucson, AZ",2025-04-30T18:11:27.740369,in transit
+b782d441-32df-4081-ad3c-7ddccde4002c,"El Paso, TX",2025-05-01T10:11:27.740369,out for delivery
+c1c24332-a78b-4dbe-9df5-ff6eae128f7e,"Phoenix, AZ",2025-04-29T04:11:27.740450,out for delivery
+c1c24332-a78b-4dbe-9df5-ff6eae128f7e,"Denver, CO",2025-04-28T19:11:27.740450,delayed
+c1c24332-a78b-4dbe-9df5-ff6eae128f7e,"Denver, CO",2025-04-27T16:11:27.740450,delayed
+364a4613-880f-4ca4-89b4-f7be943850d8,"Denver, CO",2025-04-09T22:11:27.740530,in transit
+364a4613-880f-4ca4-89b4-f7be943850d8,"Oklahoma City, OK",2025-04-08T20:11:27.740530,delayed
+364a4613-880f-4ca4-89b4-f7be943850d8,"Tucson, AZ",2025-04-10T04:11:27.740530,delivered
+639f4098-81e3-409e-a088-74ae2abaef53,"Phoenix, AZ",2025-05-02T20:11:27.740600,delayed
+639f4098-81e3-409e-a088-74ae2abaef53,"Denver, CO",2025-05-04T14:11:27.740600,out for delivery
+639f4098-81e3-409e-a088-74ae2abaef53,"Oklahoma City, OK",2025-05-03T14:11:27.740600,delivered
+904a3678-654c-4472-bfb3-db6161449349,"Tucson, AZ",2025-04-08T15:11:27.740669,delayed
+904a3678-654c-4472-bfb3-db6161449349,"El Paso, TX",2025-04-11T02:11:27.740669,out for delivery
+86132f53-762d-4dae-ab0f-5763dd1e4ba1,"Las Vegas, NV",2025-04-14T05:11:27.740757,out for delivery
+86132f53-762d-4dae-ab0f-5763dd1e4ba1,"Denver, CO",2025-04-12T23:11:27.740757,in transit
+86132f53-762d-4dae-ab0f-5763dd1e4ba1,"El Paso, TX",2025-04-13T05:11:27.740757,arrived at hub
+505d81a8-81cd-456e-920d-344984b10262,"Phoenix, AZ",2025-04-20T00:11:27.740836,out for delivery
+505d81a8-81cd-456e-920d-344984b10262,"Las Vegas, NV",2025-04-21T08:11:27.740836,delivered
+43ef5ced-5580-4173-98ae-d9f56cf386d8,"Phoenix, AZ",2025-04-28T09:11:27.740922,arrived at hub
+43ef5ced-5580-4173-98ae-d9f56cf386d8,"Las Vegas, NV",2025-04-28T19:11:27.740922,delivered
+6739f50e-56cd-46fd-9378-333efd9f32b6,"El Paso, TX",2025-04-16T17:11:27.741002,out for delivery
+6739f50e-56cd-46fd-9378-333efd9f32b6,"Salt Lake City, UT",2025-04-17T10:11:27.741002,arrived at hub
+617c1771-9f86-4510-83f5-89f5929cabc6,"El Paso, TX",2025-04-20T19:11:27.741083,delayed
+617c1771-9f86-4510-83f5-89f5929cabc6,"El Paso, TX",2025-04-21T10:11:27.741083,in transit
+8410a06f-ca75-475f-ab5a-d8fdfefe5817,"El Paso, TX",2025-04-18T07:11:27.741173,arrived at hub
+8410a06f-ca75-475f-ab5a-d8fdfefe5817,"El Paso, TX",2025-04-20T04:11:27.741173,delayed
+8410a06f-ca75-475f-ab5a-d8fdfefe5817,"Tucson, AZ",2025-04-18T11:11:27.741173,in transit
+9bebe41e-d6e1-4646-a748-38c3d45f2209,"Denver, CO",2025-05-04T20:11:27.741252,delivered
+9bebe41e-d6e1-4646-a748-38c3d45f2209,"Phoenix, AZ",2025-05-05T17:11:27.741252,delivered
+78aba131-7052-460b-95c5-b0cdfa31d7e5,"Las Vegas, NV",2025-04-24T13:11:27.741321,delivered
+78aba131-7052-460b-95c5-b0cdfa31d7e5,"Salt Lake City, UT",2025-04-25T14:11:27.741321,arrived at hub
+78aba131-7052-460b-95c5-b0cdfa31d7e5,"Oklahoma City, OK",2025-04-26T08:11:27.741321,arrived at hub
+7ca90515-5233-4e66-8e38-023a96b1b7e8,"Phoenix, AZ",2025-04-05T20:11:27.741389,arrived at hub
+7ca90515-5233-4e66-8e38-023a96b1b7e8,"Salt Lake City, UT",2025-04-06T07:11:27.741389,in transit
+7ca90515-5233-4e66-8e38-023a96b1b7e8,"Salt Lake City, UT",2025-04-08T08:11:27.741389,delayed
+a5f8da08-e7e3-4459-9147-c197020c7b5e,"Oklahoma City, OK",2025-04-26T12:11:27.741458,out for delivery
+a5f8da08-e7e3-4459-9147-c197020c7b5e,"Las Vegas, NV",2025-04-25T01:11:27.741458,delayed
+7bad846c-ba5d-45a7-9a89-4c7417db20c5,"Denver, CO",2025-04-22T06:11:27.741527,out for delivery
+7bad846c-ba5d-45a7-9a89-4c7417db20c5,"Oklahoma City, OK",2025-04-24T03:11:27.741527,delayed
+7bad846c-ba5d-45a7-9a89-4c7417db20c5,"Oklahoma City, OK",2025-04-22T11:11:27.741527,delivered
+f47099ac-3c58-4180-a41e-05b1bffdcbe8,"Oklahoma City, OK",2025-04-22T17:11:27.741609,delivered
+f47099ac-3c58-4180-a41e-05b1bffdcbe8,"Tucson, AZ",2025-04-22T11:11:27.741609,delayed
+f47099ac-3c58-4180-a41e-05b1bffdcbe8,"Denver, CO",2025-04-23T02:11:27.741609,arrived at hub
+e25d9da4-51be-450f-8ca5-788155d4e14d,"Salt Lake City, UT",2025-04-08T15:11:27.741679,delivered
+e25d9da4-51be-450f-8ca5-788155d4e14d,"Denver, CO",2025-04-06T17:11:27.741679,delivered
+70af32a0-42dd-4467-a696-305b57cc391c,"Oklahoma City, OK",2025-04-17T17:11:27.741747,delivered
+70af32a0-42dd-4467-a696-305b57cc391c,"Tucson, AZ",2025-04-17T02:11:27.741747,arrived at hub
+70af32a0-42dd-4467-a696-305b57cc391c,"Oklahoma City, OK",2025-04-18T07:11:27.741747,in transit
+f58bc5b6-3c6f-4f4c-93d1-d7673f318519,"Las Vegas, NV",2025-04-25T09:11:27.741849,arrived at hub
+f58bc5b6-3c6f-4f4c-93d1-d7673f318519,"Salt Lake City, UT",2025-04-24T00:11:27.741849,delayed
+3005f97e-70b5-423b-ae75-7f5c8f892220,"Las Vegas, NV",2025-04-29T14:11:27.742007,arrived at hub
+3005f97e-70b5-423b-ae75-7f5c8f892220,"Oklahoma City, OK",2025-04-30T20:11:27.742007,in transit
+3005f97e-70b5-423b-ae75-7f5c8f892220,"Las Vegas, NV",2025-05-01T09:11:27.742007,in transit
+3bb31218-a243-4a68-9ad7-fb9a36216d43,"Tucson, AZ",2025-04-11T19:11:27.742089,out for delivery
+3bb31218-a243-4a68-9ad7-fb9a36216d43,"Denver, CO",2025-04-13T18:11:27.742089,out for delivery
+4749f0c7-96d1-424f-a8f8-31bb0c0441bf,"Las Vegas, NV",2025-04-12T13:11:27.742159,delivered
+4749f0c7-96d1-424f-a8f8-31bb0c0441bf,"Phoenix, AZ",2025-04-12T13:11:27.742159,out for delivery
+4749f0c7-96d1-424f-a8f8-31bb0c0441bf,"Denver, CO",2025-04-11T17:11:27.742159,out for delivery
+d9431152-dfb0-47bd-9028-ee503235663b,"Las Vegas, NV",2025-04-15T17:11:27.742224,in transit
+d9431152-dfb0-47bd-9028-ee503235663b,"Las Vegas, NV",2025-04-17T05:11:27.742224,in transit
+a62bc7fe-6fb0-4d67-adce-4371e764ea20,"Denver, CO",2025-05-03T08:11:27.742293,out for delivery
+a62bc7fe-6fb0-4d67-adce-4371e764ea20,"Oklahoma City, OK",2025-05-02T09:11:27.742293,in transit
+f0e1339b-a8e1-4975-a4b6-2746231830a8,"El Paso, TX",2025-04-17T08:11:27.742360,delivered
+f0e1339b-a8e1-4975-a4b6-2746231830a8,"Oklahoma City, OK",2025-04-18T02:11:27.742360,in transit
+81a1235f-2425-4c44-aead-cf3efbd7f0af,"El Paso, TX",2025-04-22T10:11:27.742428,out for delivery
+81a1235f-2425-4c44-aead-cf3efbd7f0af,"Phoenix, AZ",2025-04-22T09:11:27.742428,in transit
+81a1235f-2425-4c44-aead-cf3efbd7f0af,"Denver, CO",2025-04-23T07:11:27.742428,arrived at hub
+a2faa34b-1043-4b1b-9c14-48a0743917de,"Oklahoma City, OK",2025-04-15T22:11:27.742506,delayed
+a2faa34b-1043-4b1b-9c14-48a0743917de,"Denver, CO",2025-04-16T03:11:27.742506,in transit
+a2faa34b-1043-4b1b-9c14-48a0743917de,"Tucson, AZ",2025-04-14T19:11:27.742506,delivered
+130df40f-c408-4b20-b5be-ea9c386245be,"Phoenix, AZ",2025-04-05T08:11:27.742648,delayed
+130df40f-c408-4b20-b5be-ea9c386245be,"Tucson, AZ",2025-04-04T13:11:27.742648,in transit
+130df40f-c408-4b20-b5be-ea9c386245be,"Salt Lake City, UT",2025-04-06T02:11:27.742648,delivered
+6d2855c7-312a-41c0-bab5-e2fd5243a54f,"Phoenix, AZ",2025-05-02T14:11:27.742777,in transit
+6d2855c7-312a-41c0-bab5-e2fd5243a54f,"Denver, CO",2025-05-02T15:11:27.742777,delayed
+6d2855c7-312a-41c0-bab5-e2fd5243a54f,"Tucson, AZ",2025-05-01T23:11:27.742777,in transit
+a5db71f8-09ca-4789-8aca-3feee2f040a8,"Tucson, AZ",2025-04-08T15:11:27.742854,out for delivery
+a5db71f8-09ca-4789-8aca-3feee2f040a8,"Phoenix, AZ",2025-04-07T22:11:27.742854,delivered
+a5db71f8-09ca-4789-8aca-3feee2f040a8,"Denver, CO",2025-04-08T14:11:27.742854,delayed
+34f52f87-37cd-451f-b694-5a90684149cc,"Denver, CO",2025-05-01T12:11:27.742925,out for delivery
+34f52f87-37cd-451f-b694-5a90684149cc,"Las Vegas, NV",2025-04-29T18:11:27.742925,out for delivery
+34f52f87-37cd-451f-b694-5a90684149cc,"Las Vegas, NV",2025-05-02T00:11:27.742925,arrived at hub
+0f84b415-07c2-4625-bf72-6b1e573c5417,"Denver, CO",2025-04-13T20:11:27.743015,in transit
+0f84b415-07c2-4625-bf72-6b1e573c5417,"Oklahoma City, OK",2025-04-13T23:11:27.743015,delayed
+0f84b415-07c2-4625-bf72-6b1e573c5417,"Salt Lake City, UT",2025-04-15T17:11:27.743015,delivered
+3a24b0c9-9ec0-4c47-8fa4-32b9ac1a4816,"Salt Lake City, UT",2025-04-27T20:11:27.743134,out for delivery
+3a24b0c9-9ec0-4c47-8fa4-32b9ac1a4816,"Tucson, AZ",2025-04-30T07:11:27.743134,delivered
+9b4e0b5e-c889-4ce4-8b54-c81c00383a2c,"Tucson, AZ",2025-04-20T19:11:27.743219,delayed
+9b4e0b5e-c889-4ce4-8b54-c81c00383a2c,"Tucson, AZ",2025-04-19T23:11:27.743219,in transit
+9b4e0b5e-c889-4ce4-8b54-c81c00383a2c,"El Paso, TX",2025-04-22T05:11:27.743219,delivered
+40fdfdb5-7ff9-4d9a-b8ff-fddcb75df38e,"Salt Lake City, UT",2025-04-30T04:11:27.743289,out for delivery
+40fdfdb5-7ff9-4d9a-b8ff-fddcb75df38e,"Denver, CO",2025-04-30T11:11:27.743289,arrived at hub
+92275ce9-961a-4230-95b7-14191ec05b68,"Phoenix, AZ",2025-05-05T05:11:27.743357,out for delivery
+92275ce9-961a-4230-95b7-14191ec05b68,"Oklahoma City, OK",2025-05-04T23:11:27.743357,out for delivery
+5d4f3eb5-88c8-48cb-b732-affad48ffa59,"Salt Lake City, UT",2025-05-02T07:11:27.743437,delivered
+5d4f3eb5-88c8-48cb-b732-affad48ffa59,"Las Vegas, NV",2025-05-02T22:11:27.743437,in transit
+d6a8931c-15e1-4b89-982d-19a254d9db2c,"El Paso, TX",2025-04-21T14:11:27.743505,out for delivery
+d6a8931c-15e1-4b89-982d-19a254d9db2c,"Salt Lake City, UT",2025-04-21T06:11:27.743505,delayed
+e61fb1f9-46f5-412e-b399-e406cbbfeeaf,"Salt Lake City, UT",2025-05-04T14:11:27.743586,delivered
+e61fb1f9-46f5-412e-b399-e406cbbfeeaf,"Salt Lake City, UT",2025-05-07T07:11:27.743586,out for delivery
+e61fb1f9-46f5-412e-b399-e406cbbfeeaf,"Tucson, AZ",2025-05-05T03:11:27.743586,arrived at hub
+a25cb434-77bd-46b3-9274-7121452fe14f,"Phoenix, AZ",2025-04-11T01:11:27.743676,delivered
+a25cb434-77bd-46b3-9274-7121452fe14f,"Salt Lake City, UT",2025-04-11T01:11:27.743676,delayed
+05135721-2769-46f8-a341-e7162e3dcbe3,"Las Vegas, NV",2025-04-07T17:11:27.743766,out for delivery
+05135721-2769-46f8-a341-e7162e3dcbe3,"El Paso, TX",2025-04-08T03:11:27.743766,delivered
+05135721-2769-46f8-a341-e7162e3dcbe3,"Phoenix, AZ",2025-04-08T01:11:27.743766,arrived at hub
+7be3bec0-5fd3-4d31-b5cf-b975e0bfdba6,"Denver, CO",2025-05-01T16:11:27.744395,delivered
+7be3bec0-5fd3-4d31-b5cf-b975e0bfdba6,"Phoenix, AZ",2025-05-01T16:11:27.744395,out for delivery
+7be3bec0-5fd3-4d31-b5cf-b975e0bfdba6,"Oklahoma City, OK",2025-05-01T07:11:27.744395,arrived at hub
+8502a127-8606-4bb1-973e-d91fa325c846,"Las Vegas, NV",2025-04-19T01:11:27.744477,delayed
+8502a127-8606-4bb1-973e-d91fa325c846,"Las Vegas, NV",2025-04-16T15:11:27.744477,delayed
+77757970-db84-4573-967e-50616f370838,"Salt Lake City, UT",2025-05-05T00:11:27.744552,out for delivery
+77757970-db84-4573-967e-50616f370838,"Salt Lake City, UT",2025-05-04T01:11:27.744552,arrived at hub
+77757970-db84-4573-967e-50616f370838,"Las Vegas, NV",2025-05-04T06:11:27.744552,out for delivery
+f664a8e7-0875-4274-99a9-51196a581d48,"Oklahoma City, OK",2025-04-19T23:11:27.744635,out for delivery
+f664a8e7-0875-4274-99a9-51196a581d48,"Denver, CO",2025-04-19T00:11:27.744635,out for delivery
+f664a8e7-0875-4274-99a9-51196a581d48,"Salt Lake City, UT",2025-04-19T16:11:27.744635,out for delivery
+6f3cc776-d7f2-49ea-9677-69c48ce5eb65,"Salt Lake City, UT",2025-04-26T07:11:27.744827,delayed
+6f3cc776-d7f2-49ea-9677-69c48ce5eb65,"El Paso, TX",2025-04-23T20:11:27.744827,arrived at hub
+6f3cc776-d7f2-49ea-9677-69c48ce5eb65,"Las Vegas, NV",2025-04-23T21:11:27.744827,delivered
+8ca8c828-2f58-4774-95e3-2ce8fc1ae986,"Salt Lake City, UT",2025-04-24T06:11:27.744917,delivered
+8ca8c828-2f58-4774-95e3-2ce8fc1ae986,"Denver, CO",2025-04-23T16:11:27.744917,arrived at hub
+8ca8c828-2f58-4774-95e3-2ce8fc1ae986,"Salt Lake City, UT",2025-04-24T14:11:27.744917,in transit
+41bf1ada-125e-4976-aa2c-448284ab9e30,"Tucson, AZ",2025-04-20T17:11:27.744989,in transit
+41bf1ada-125e-4976-aa2c-448284ab9e30,"Oklahoma City, OK",2025-04-22T11:11:27.744989,arrived at hub
+0545dcf3-e856-463f-b2a6-d29333ab0aee,"Salt Lake City, UT",2025-04-12T12:11:27.745080,out for delivery
+0545dcf3-e856-463f-b2a6-d29333ab0aee,"Tucson, AZ",2025-04-13T05:11:27.745080,in transit
+0545dcf3-e856-463f-b2a6-d29333ab0aee,"Denver, CO",2025-04-10T16:11:27.745080,delayed
+fa79623c-822d-420e-906e-0305d138d25c,"Denver, CO",2025-04-07T22:11:27.745154,out for delivery
+fa79623c-822d-420e-906e-0305d138d25c,"Las Vegas, NV",2025-04-07T09:11:27.745154,arrived at hub
+fa79623c-822d-420e-906e-0305d138d25c,"Oklahoma City, OK",2025-04-06T22:11:27.745154,in transit
+eab9de50-dee5-4e4a-86e2-9f3c14a04a3c,"Tucson, AZ",2025-04-13T16:11:27.745230,in transit
+eab9de50-dee5-4e4a-86e2-9f3c14a04a3c,"Salt Lake City, UT",2025-04-14T09:11:27.745230,delivered
+eab9de50-dee5-4e4a-86e2-9f3c14a04a3c,"Salt Lake City, UT",2025-04-14T16:11:27.745230,arrived at hub
+718a75a8-5a75-4457-a8cd-c5f4f9b72cdf,"Las Vegas, NV",2025-04-25T15:11:27.745306,out for delivery
+718a75a8-5a75-4457-a8cd-c5f4f9b72cdf,"Phoenix, AZ",2025-04-27T06:11:27.745306,in transit
+e8e5dd34-d707-4c81-a1d9-ce285f8d911a,"Oklahoma City, OK",2025-04-19T05:11:27.745423,arrived at hub
+e8e5dd34-d707-4c81-a1d9-ce285f8d911a,"Denver, CO",2025-04-18T14:11:27.745423,delayed
+e8e5dd34-d707-4c81-a1d9-ce285f8d911a,"Oklahoma City, OK",2025-04-20T04:11:27.745423,delayed
+d0de554d-b204-4552-9b10-951b3d8e7276,"Salt Lake City, UT",2025-04-14T13:11:27.745496,delayed
+d0de554d-b204-4552-9b10-951b3d8e7276,"Las Vegas, NV",2025-04-14T23:11:27.745496,arrived at hub
+d0de554d-b204-4552-9b10-951b3d8e7276,"Las Vegas, NV",2025-04-15T00:11:27.745496,delivered
+6ef8f791-aafa-4908-8fc5-42da25a4db1a,"Phoenix, AZ",2025-04-17T02:11:27.745564,delivered
+6ef8f791-aafa-4908-8fc5-42da25a4db1a,"El Paso, TX",2025-04-18T12:11:27.745564,delivered
+6ef8f791-aafa-4908-8fc5-42da25a4db1a,"Las Vegas, NV",2025-04-18T01:11:27.745564,in transit
+0795b440-9169-4136-bcf8-eb5e1e8fe695,"Las Vegas, NV",2025-04-19T21:11:27.745632,delayed
+0795b440-9169-4136-bcf8-eb5e1e8fe695,"Salt Lake City, UT",2025-04-21T06:11:27.745632,delayed
+0795b440-9169-4136-bcf8-eb5e1e8fe695,"Oklahoma City, OK",2025-04-20T22:11:27.745632,delayed
+6529e7aa-ed1d-4f4f-aec9-d8782c42ec1f,"El Paso, TX",2025-04-29T08:11:27.745719,arrived at hub
+6529e7aa-ed1d-4f4f-aec9-d8782c42ec1f,"Salt Lake City, UT",2025-04-28T20:11:27.745719,delivered
+4df7e8e6-498f-4962-9e5e-ae190030fd99,"Oklahoma City, OK",2025-04-13T05:11:27.745787,arrived at hub
+4df7e8e6-498f-4962-9e5e-ae190030fd99,"Oklahoma City, OK",2025-04-11T16:11:27.745787,out for delivery
+4df7e8e6-498f-4962-9e5e-ae190030fd99,"Las Vegas, NV",2025-04-13T02:11:27.745787,out for delivery
+7904141f-511c-493f-aa18-763e775ffea2,"Oklahoma City, OK",2025-04-21T14:11:27.745852,in transit
+7904141f-511c-493f-aa18-763e775ffea2,"Las Vegas, NV",2025-04-20T13:11:27.745852,arrived at hub
+7904141f-511c-493f-aa18-763e775ffea2,"Oklahoma City, OK",2025-04-22T09:11:27.745852,out for delivery
+aa3443b1-fed1-4d34-9574-d4ccb817157a,"Las Vegas, NV",2025-04-30T05:11:27.745917,arrived at hub
+aa3443b1-fed1-4d34-9574-d4ccb817157a,"Las Vegas, NV",2025-04-28T12:11:27.745917,in transit
+aa3443b1-fed1-4d34-9574-d4ccb817157a,"Denver, CO",2025-04-30T01:11:27.745917,delayed
+ca8e711d-d9d5-492e-8844-813069532c92,"Oklahoma City, OK",2025-04-26T07:11:27.745993,in transit
+ca8e711d-d9d5-492e-8844-813069532c92,"Las Vegas, NV",2025-04-25T17:11:27.745993,arrived at hub
+d93686db-8709-4f1a-adb1-347a4fd73339,"Salt Lake City, UT",2025-04-27T18:11:27.746061,delayed
+d93686db-8709-4f1a-adb1-347a4fd73339,"Las Vegas, NV",2025-04-27T12:11:27.746061,delivered
+d93686db-8709-4f1a-adb1-347a4fd73339,"Tucson, AZ",2025-04-27T02:11:27.746061,in transit
+e062b5b6-266b-4776-8299-a4e55310bfba,"Salt Lake City, UT",2025-04-25T19:11:27.746126,delivered
+e062b5b6-266b-4776-8299-a4e55310bfba,"Tucson, AZ",2025-04-25T22:11:27.746126,arrived at hub
+e062b5b6-266b-4776-8299-a4e55310bfba,"Phoenix, AZ",2025-04-28T05:11:27.746126,out for delivery
+2dce9f50-96f3-44ec-ab2f-cd231d35c875,"Phoenix, AZ",2025-04-25T17:11:27.746194,arrived at hub
+2dce9f50-96f3-44ec-ab2f-cd231d35c875,"Denver, CO",2025-04-24T06:11:27.746194,delayed
+2dce9f50-96f3-44ec-ab2f-cd231d35c875,"El Paso, TX",2025-04-25T17:11:27.746194,out for delivery
+e3895182-18b8-4373-87d3-acb914b9be2b,"Salt Lake City, UT",2025-04-19T05:11:27.746259,arrived at hub
+e3895182-18b8-4373-87d3-acb914b9be2b,"Tucson, AZ",2025-04-17T23:11:27.746259,delayed
+b34c28b7-1628-4f49-831d-585f31cb8e9b,"Oklahoma City, OK",2025-04-10T05:11:27.746323,in transit
+b34c28b7-1628-4f49-831d-585f31cb8e9b,"Tucson, AZ",2025-04-08T13:11:27.746323,delayed
+b6f04d08-744e-45d1-8d36-0b284c2f0c69,"El Paso, TX",2025-04-13T10:11:27.746399,arrived at hub
+b6f04d08-744e-45d1-8d36-0b284c2f0c69,"Salt Lake City, UT",2025-04-15T03:11:27.746399,in transit
+bcd185aa-bfad-4bce-88e2-b6534d12b7f7,"Oklahoma City, OK",2025-05-02T20:11:27.746465,out for delivery
+bcd185aa-bfad-4bce-88e2-b6534d12b7f7,"Tucson, AZ",2025-05-02T16:11:27.746465,out for delivery
+af4810d5-03e8-4e69-bcb2-faea9b8fa811,"Phoenix, AZ",2025-04-13T13:11:27.746552,delivered
+af4810d5-03e8-4e69-bcb2-faea9b8fa811,"Oklahoma City, OK",2025-04-14T14:11:27.746552,delayed
+af4810d5-03e8-4e69-bcb2-faea9b8fa811,"Las Vegas, NV",2025-04-13T14:11:27.746552,delivered
+97f47592-4ff5-47c7-bf9f-9112774ad3dd,"Oklahoma City, OK",2025-04-15T15:11:27.746620,in transit
+97f47592-4ff5-47c7-bf9f-9112774ad3dd,"Denver, CO",2025-04-16T20:11:27.746620,delayed
+19f1430e-5970-41f7-9990-57ea73fa8f8e,"Phoenix, AZ",2025-04-17T05:11:27.746689,out for delivery
+19f1430e-5970-41f7-9990-57ea73fa8f8e,"El Paso, TX",2025-04-19T05:11:27.746689,delayed
+19f1430e-5970-41f7-9990-57ea73fa8f8e,"Phoenix, AZ",2025-04-17T10:11:27.746689,in transit
+ee61dbc7-7c52-4b74-bfd6-c5bd64aee577,"Tucson, AZ",2025-04-20T02:11:27.746785,delivered
+ee61dbc7-7c52-4b74-bfd6-c5bd64aee577,"Las Vegas, NV",2025-04-21T08:11:27.746785,out for delivery
+ee61dbc7-7c52-4b74-bfd6-c5bd64aee577,"Las Vegas, NV",2025-04-19T06:11:27.746785,out for delivery
+826444cf-30e7-483e-b523-2ea454ef44b9,"Denver, CO",2025-04-14T13:11:27.746861,out for delivery
+826444cf-30e7-483e-b523-2ea454ef44b9,"Denver, CO",2025-04-13T15:11:27.746861,arrived at hub
+826444cf-30e7-483e-b523-2ea454ef44b9,"Denver, CO",2025-04-14T05:11:27.746861,in transit
+e41fb5ec-a864-4295-817e-beabed182274,"Las Vegas, NV",2025-04-11T04:11:27.746940,in transit
+e41fb5ec-a864-4295-817e-beabed182274,"Oklahoma City, OK",2025-04-12T13:11:27.746940,delayed
+9594902a-99a9-4630-9819-6f461804bf6d,"Oklahoma City, OK",2025-04-28T19:11:27.747028,in transit
+9594902a-99a9-4630-9819-6f461804bf6d,"Phoenix, AZ",2025-04-28T15:11:27.747028,in transit
+f6e1013e-5791-4e02-a369-ecda93cc86fa,"Tucson, AZ",2025-04-07T21:11:27.747094,in transit
+f6e1013e-5791-4e02-a369-ecda93cc86fa,"Tucson, AZ",2025-04-06T21:11:27.747094,arrived at hub
+f6e1013e-5791-4e02-a369-ecda93cc86fa,"Oklahoma City, OK",2025-04-06T15:11:27.747094,in transit
+6c5c16ca-368b-4847-8a87-5a7130d86196,"Oklahoma City, OK",2025-04-12T18:11:27.747160,in transit
+6c5c16ca-368b-4847-8a87-5a7130d86196,"Las Vegas, NV",2025-04-13T07:11:27.747160,delivered
+6c5c16ca-368b-4847-8a87-5a7130d86196,"Tucson, AZ",2025-04-11T06:11:27.747160,in transit
+75ff1612-1fb0-46d2-8baa-95e33356200b,"Phoenix, AZ",2025-05-02T01:11:27.747226,in transit
+75ff1612-1fb0-46d2-8baa-95e33356200b,"Denver, CO",2025-05-03T04:11:27.747226,delivered
