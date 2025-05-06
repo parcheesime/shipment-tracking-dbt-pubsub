@@ -7,10 +7,10 @@ load_dotenv(dotenv_path="pubsub_sim/.env")
 
 PROJECT_ID = os.getenv("GCP_PROJECT_ID")
 
-# Path to your service account key
+# Path to service account key
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/aletia/projects/freightflow-dbt/pubsub_sim/keys/service-account.json"
 
-# Set your project ID and topic ID
+# Set project ID and topic ID
 topic_id = "freight-updates"
 
 # Initialize publisher

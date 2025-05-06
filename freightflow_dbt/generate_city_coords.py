@@ -44,7 +44,7 @@ for place in cleaned:
             print(f"❌ Not found: {place}")
     except Exception as e:
         print(f"⚠️ Error with {place}: {e}")
-    time.sleep(1)  # Be polite to the API
+    time.sleep(1)  
 
 # Save to CSV
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
